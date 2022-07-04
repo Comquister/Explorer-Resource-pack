@@ -1,29 +1,30 @@
 # Explorer-Network-Iris-resurcepack
 
 ## [Vanilla Tweaks Resource Pack](https://vanillatweaks.net/picker/resource-packs/)
-**Version: 1.18**
+**Version: 1.19**
 
  ### Packs:
 * BushyLeaves
 * RainbowExperience
 * PingColorIndicator
 * MoreCrosshairs-CircleDot
-* AndesiteBackground
+* DeepslateBackground
 * DirtPanoramaOverlay
 * SlimesLightBlue
 * BedrockPistonArms
-* VillagerCloakFix
+* VillagerCloakFix (Disable)
 * CatFix
 * NoBowlParticles
 * BlazeFix
 * PixelConsistentBat
-* CocoaBeansTopFix
+* CocoaBeansTopFix (Disable)
 * PixelConsistentSigns
 * PixelConsistentXPOrbs
 * JappaRecipeButton
 * ItemStitchingFix
 * CactusBottomFix
 * TransparentPumpkin
+* TransparentSpyglassOverlay
 * InvisibleTotem
 * UnobtrusiveScaffolding
 * DirectionalHoppers
@@ -41,12 +42,14 @@
 * RedstonePowerLevels
 * GroovyLevers
 * BuddingAmethystBorders
-* DungeonsStone
 * UniformOres
 * OreBorders
 * NumberedHotbar
 * DarkUI
 * BrewingGuide
+* Dungeons Alex & Steve
+* Big Dripleaf Stem Fix
+* Small Dripleaf Stem Fix
 
 ## [FreshAnimations_v1.6.zip (Addons and Alt)](https://www.curseforge.com/minecraft/texture-packs/fresh-animations)
 **Version: 1.18.2 - 1.15.2**
