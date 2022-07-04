@@ -54,7 +54,7 @@
 ## [FreshAnimations_v1.6.zip (Addons and Alt)](https://www.curseforge.com/minecraft/texture-packs/fresh-animations)
 **Version: 1.18.2 - 1.15.2** (Disable)
 
-## [Icons+1.6.2.zip](https://www.curseforge.com/minecraft/texture-packs/icons)
+## [Icons+1.7.1.zip](https://www.curseforge.com/minecraft/texture-packs/icons)
 **Version: 1.19.1, 1.18.2, 1.17.1**
 
 ## [BACAP Language Pack 1.14.0.1.zip](https://www.planetminecraft.com/texture-pack/bacap-language-pack/)
