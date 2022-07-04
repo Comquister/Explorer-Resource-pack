@@ -1,4 +1,4 @@
-# Explorer-Network-Iris-resurcepack
+# Zoe-Resource-pack
 
 ## [Vanilla Tweaks Resource Pack](https://vanillatweaks.net/picker/resource-packs/)
 **Version: 1.19**
