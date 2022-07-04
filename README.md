@@ -62,5 +62,3 @@
 
 ## [vanilla-additions-dark-gui-add-on-1-2-5.zip](https://www.planetminecraft.com/texture-pack/justtimm-s-vanilla-additions-dark-gui-add-on/)
 **Verson: 1.18.2**
-<p>Info: Only the shulker box gui was used</p>
-0.0.2V
