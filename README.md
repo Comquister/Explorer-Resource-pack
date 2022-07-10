@@ -45,7 +45,7 @@
 * UniformOres
 * OreBorders
 * NumberedHotbar
-* DarkUI
+* DarkUI (Disable)
 * BrewingGuide
 * Dungeons Alex & Steve
 * Big Dripleaf Stem Fix
