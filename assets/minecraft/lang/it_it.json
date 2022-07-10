@@ -3,6 +3,12 @@
   "language.region": "IT",
   "language.code": "it_it",
 
+// title
+"title.singleplayer": "Singleplayer",
+"title.multiplayer.realms": "Realmes",
+"title.multiplayer.lan": "Lan",
+"title.multiplayer.other": "Explorer Network",
+
 // Main Menu
   "menu.singleplayer":	"§r\uDB80\uDC00         Giocatore singolo         \uDB80\uDC00",
   "menu.multiplayer":	"§r\uDB80\uDC01          Multigiocatore            \uDB80\uDC01",

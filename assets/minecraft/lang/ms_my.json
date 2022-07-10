@@ -3,6 +3,12 @@
   "language.region": "Malaysia",
   "language.code": "ms_my",
 
+// title
+"title.singleplayer": "Singleplayer",
+"title.multiplayer.realms": "Realmes",
+"title.multiplayer.lan": "Lan",
+"title.multiplayer.other": "Explorer Network",
+
 // Main Menu
   "menu.singleplayer":	"§r\uDB80\uDC00        Permainan Tunggal        \uDB80\uDC00",
   "menu.multiplayer":	"§r\uDB80\uDC01         Permainan Jamak         \uDB80\uDC01",

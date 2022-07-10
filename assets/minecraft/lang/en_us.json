@@ -3,6 +3,12 @@
   "language.region": "US",
   "language.code": "en_us",
 
+// title
+  "title.singleplayer": "Singleplayer",
+  "title.multiplayer.realms": "Realmes",
+  "title.multiplayer.lan": "Lan",
+  "title.multiplayer.other": "Explorer Network",
+
 // Main Menu
   "menu.singleplayer":	"§r\uDB80\uDC00            Singleplayer            \uDB80\uDC00",
   "menu.multiplayer":	"§r\uDB80\uDC01             Multiplayer             \uDB80\uDC01",
@@ -403,49 +409,19 @@
   "container.enchant.level.many":			"%s §f\uDB80\uDE11§r Enchantment Levels",
   "container.enchant.level.requirement":	"Level Requirement: %s §f\uDB80\uDE10§r",
   
-  //////////////////////////////////////////////
-  "merchant.level.1": "§7Novice",
-  "merchant.level.2": "§7Apprentice",
-  "merchant.level.3": "§7Journeyman",
-  "merchant.level.4": "§7Expert",
-  "merchant.level.5": "§7Master",
-  "merchant.trades": "§7Trades",
-  "container.hopper": "§7Item Hopper",
-  "container.crafting": "§7Crafting",
-  "container.dispenser": "§7Dispenser",
-  "container.dropper": "§7Dropper",
-  "container.furnace": "§7Furnace",
-  "container.smoker": "§7Smoker",
-  "container.lectern": "§7Lectern",
-  "container.blast_furnace": "§7Blast Furnace",
-  "container.repair": "§7Repair & Name",
-  "container.creative": "§7Item Selection",
-  "container.brewing": "§7Brewing Stand",
-  "container.chest": "§7Chest",
-  "container.chestDouble": "§7Large Chest",
-  "container.enderchest": "§7Ender Chest",
-  "container.beacon": "§7Beacon",
-  "container.barrel": "§7Barrel",
-  "container.loom": "§7Loom",
-  "container.grindstone_title": "§7Repair & Disenchant",
-  "container.cartography_table": "§7Cartography Table",
-  "container.stonecutter": "§7Stonecutter",
-  "container.upgrade": "§7Upgrade Gear",
-  /////////////////////////////////////////////////
-  
 //Creative Inventory
 // Item Groups
-  "itemGroup.buildingBlocks":		"§f\uDB80\uDDC6 §7Building Blocks",
-  "itemGroup.decorations":			"§f\uDB80\uDDC7 §7Decoration Blocks",
-  "itemGroup.redstone":				"§f\uDB80\uDDC8 §7Redstone",
-  "itemGroup.transportation":		"§f\uDB80\uDDC9 §7Transportation",
-  "itemGroup.hotbar":				"§f\uDB80\uDDCA §7Saved Hotbars",  
-  "itemGroup.search":				"§f\uDB80\uDDCB §7Search",  
-  "itemGroup.misc":					"§f\uDB80\uDDCC §7Miscellaneous",
-  "itemGroup.food":					"§f\uDB80\uDDCD §7Foodstuffs",
-  "itemGroup.tools":				"§f\uDB80\uDDCE §7Tools",
-  "itemGroup.combat":				"§f\uDB80\uDDCF §7Combat",
-  "itemGroup.brewing":				"§f\uDB80\uDDD0 §7Brewing",
+  "itemGroup.buildingBlocks":		"§f\uDB80\uDDC6 §rBuilding Blocks",
+  "itemGroup.decorations":			"§f\uDB80\uDDC7 §rDecoration Blocks",
+  "itemGroup.redstone":				"§f\uDB80\uDDC8 §rRedstone",
+  "itemGroup.transportation":		"§f\uDB80\uDDC9 §rTransportation",
+  "itemGroup.hotbar":				"§f\uDB80\uDDCA §rSaved Hotbars",  
+  "itemGroup.search":				"§f\uDB80\uDDCB §rSearch",  
+  "itemGroup.misc":					"§f\uDB80\uDDCC §rMiscellaneous",
+  "itemGroup.food":					"§f\uDB80\uDDCD §rFoodstuffs",
+  "itemGroup.tools":				"§f\uDB80\uDDCE §rTools",
+  "itemGroup.combat":				"§f\uDB80\uDDCF §rCombat",
+  "itemGroup.brewing":				"§f\uDB80\uDDD0 §rBrewing",
   "itemGroup.inventory":			"§f\uDB80\uDDD1 §rSurvival Inventory",
   
 // Statistics
@@ -1369,31 +1345,6 @@
   "item.minecraft.zombified_piglin_spawn_egg":	"§f\uDBC1\uDC54§rZombified Piglin Spawn Egg",
   
 //Fish
-
-  //////////////////////////////////////////////////////////////
-  "entity.minecraft.horse": "§7Horse",
-  "entity.minecraft.donkey": "§7Donkey",
-  "entity.minecraft.llama": "§7Llama",
-  "entity.minecraft.trader_llama": "§7Trader Llama",
-  "entity.minecraft.villager.armorer": "§7Armorer",
-  "entity.minecraft.villager.butcher": "§7Butcher",
-  "entity.minecraft.villager.cartographer": "§7Cartographer",
-  "entity.minecraft.villager.cleric": "§7Cleric",
-  "entity.minecraft.villager.farmer": "§7Farmer",
-  "entity.minecraft.villager.fisherman": "§7Fisherman",
-  "entity.minecraft.villager.fletcher": "§7Fletcher",
-  "entity.minecraft.villager.leatherworker": "§7Leatherworker",
-  "entity.minecraft.villager.librarian": "§7Librarian",
-  "entity.minecraft.villager.mason": "§7Mason",
-  "entity.minecraft.villager.none": "§7Villager",
-  "entity.minecraft.villager.nitwit": "§7Nitwit",
-  "entity.minecraft.villager.shepherd": "§7Shepherd",
-  "entity.minecraft.villager.toolsmith": "§7Toolsmith",
-  "entity.minecraft.villager.weaponsmith": "§7Weaponsmith",
-  "entity.minecraft.villager": "§7Villager",
-  "entity.minecraft.wandering_trader": "§7Wandering Trader",
-  /////////////////////////////////////////////////////////////////
-  
   "entity.minecraft.tropical_fish.predefined.0":	"§f\uDBFF\uDFD2 §rAnemone",
   "entity.minecraft.tropical_fish.predefined.1":	"§f\uDBFF\uDFD3 §rBlack Tang",
   "entity.minecraft.tropical_fish.predefined.2":	"§f\uDBFF\uDFD4 §rBlue Tang",

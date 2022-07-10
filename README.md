@@ -1,19 +1,5 @@
 # Zoe-Resource-pack
 
-
-
-## [BetterVanillaBuildingV2.75.zip](https://www.curseforge.com/minecraft/texture-packs/bettervanillabuilding)
-**Version: 1.19.1**
-
-## [BushyBiomesV1.12.1.zip](https://www.curseforge.com/minecraft/texture-packs/bettervanillabuilding-bushy-leaves-addon)
-**Version: 1.19.1**
-
-## [BvBOverlaysV3.1.zip](https://www.curseforge.com/minecraft/texture-packs/bvb-overlays)
-**Version: 1.19.1**
-
-## [Stefan'sArmors'N'ItemsV1.15.1.zip](https://www.curseforge.com/minecraft/texture-packs/bettervanillabuilding-custom-item-edition)
-**Version: 1.19.1**
-
 ## [Vanilla Tweaks Resource Pack](https://vanillatweaks.net/picker/resource-packs/)
 **Version: 1.19**
 

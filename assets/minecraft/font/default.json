@@ -22,9 +22,9 @@
         },
 		{
          "type": "bitmap",
-         "file": "icons:menu/gamemenulogo.png",
-         "ascent": 40,
-         "height": 60,
+         "file": "icons:menu/Explorer512x256.png",
+         "ascent": 35,
+         "height": 70,
          "chars": [
             "\uDB80\uDC90"
             ]
@@ -2119,6 +2119,6 @@
             "chars": [
                 "\uF830"
             ]
-        }			
+        }
     ]
 }

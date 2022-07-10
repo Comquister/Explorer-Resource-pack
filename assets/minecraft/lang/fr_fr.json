@@ -3,6 +3,12 @@
   "language.region": "FR",
   "language.code": "fr_fr",
 
+// title
+"title.singleplayer": "Singleplayer",
+"title.multiplayer.realms": "Realmes",
+"title.multiplayer.lan": "Lan",
+"title.multiplayer.other": "Explorer Network",
+
 // Main Menu
   "menu.singleplayer":	"§r\uDB80\uDC00                 Solo                 \uDB80\uDC00",
   "menu.multiplayer":	"§r\uDB80\uDC01            Multijoueur            \uDB80\uDC01",
@@ -1372,13 +1378,14 @@
     "color.minecraft.purple":		"§f\uDB80\uDDF8§rViolet",
     "color.minecraft.red":			"§f\uDB80\uDDF9§rRouge",
     "color.minecraft.white":		"§f\uDB80\uDDFA§rBlanc",
-    "color.minecraft.yellow":		"§f\uDB80\uDDFB§rJaune"	
+    "color.minecraft.yellow":		"§f\uDB80\uDDFB§rJaune",
+
 
 
 
 
     # BlazeandCave's Advancements Pack Language File
-     
+    
     # How to use: Name and descriptions of advancement to left of : and put translation to right of :, inside the speech marks "" like this: "Advancement Description"
     # Some advancement titles make use of puns that would work in English but probably not in other languages. Be creative if you wish if you can find any puns in foreign languages.
     
@@ -6180,8 +6187,4 @@
 
 
 # All advancements and trophies that get added in versions 1.15 or later will be added down here for easy locating by translators who wish to update their language file
-
-
-
-
 }
