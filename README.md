@@ -1,6 +1,8 @@
 # Zoe-Resource-pack
 
-## [Vanilla Tweaks Resource Pack](https://vanillatweaks.net/picker/resource-packs/)
+## [Fancy_Beds_V2.1-[1.19]](https://www.curseforge.com/minecraft/texture-packs/fancy-beds) * added v0.0.6
+
+## [Vanilla Tweaks Resource Pack](https://vanillatweaks.net/picker/resource-packs/) * added v0.0.5
 **Version: 1.19**
 
 ![image](https://user-images.githubusercontent.com/77806985/178164957-e6878939-f055-4ccb-b120-a16718178e7a.png)
@@ -26,14 +28,14 @@
 ![image](https://user-images.githubusercontent.com/77806985/178165013-590d9d14-32b5-4854-a4c0-a0d9306df0e3.png)
 
 
-## [FreshAnimations_v1.6.zip (Addons and Alt)](https://www.curseforge.com/minecraft/texture-packs/fresh-animations)
+## [FreshAnimations_v1.6.zip (Addons and Alt)](https://www.curseforge.com/minecraft/texture-packs/fresh-animations) * ¯\\\_(ツ)_/¯
 **Version: 1.18.2 - 1.15.2** (Disable)
 
-## [Icons+1.7.1.zip](https://www.curseforge.com/minecraft/texture-packs/icons)
+## [Icons+1.7.1.zip](https://www.curseforge.com/minecraft/texture-packs/icons) * added v0.0.1
 **Version: 1.19.1, 1.18.2, 1.17.1**
 
-## [BACAP Language Pack 1.14.0.1.zip](https://www.planetminecraft.com/texture-pack/bacap-language-pack/)
+## [BACAP Language Pack 1.14.0.1.zip](https://www.planetminecraft.com/texture-pack/bacap-language-pack/) * added v0.0.1
 **Version: 1.19**
 
-## [vanilla-additions-dark-gui-add-on-1-2-5.zip](https://www.planetminecraft.com/texture-pack/justtimm-s-vanilla-additions-dark-gui-add-on/)
+## [vanilla-additions-dark-gui-add-on-1-2-5.zip](https://www.planetminecraft.com/texture-pack/justtimm-s-vanilla-additions-dark-gui-add-on/) * added v0.0.1
 **Verson: 1.18.2**

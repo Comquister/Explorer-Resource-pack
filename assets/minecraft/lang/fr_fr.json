@@ -1384,22 +1384,22 @@
 
 
 
-    # BlazeandCave's Advancements Pack Language File
+    // BlazeandCave's Advancements Pack Language File
     
-    # How to use: Name and descriptions of advancement to left of : and put translation to right of :, inside the speech marks "" like this: "Advancement Description"
-    # Some advancement titles make use of puns that would work in English but probably not in other languages. Be creative if you wish if you can find any puns in foreign languages.
+    // How to use: Name and descriptions of advancement to left of : and put translation to right of :, inside the speech marks "" like this: "Advancement Description"
+    // Some advancement titles make use of puns that would work in English but probably not in other languages. Be creative if you wish if you can find any puns in foreign languages.
     
-    # This file will be updated with new advancements with each new update.
-    # Currently the text that appears with reward functions are not translatable - support for translating the reward functions messages will come in a later update.
+    // This file will be updated with new advancements with each new update.
+    // Currently the text that appears with reward functions are not translatable - support for translating the reward functions messages will come in a later update.
     
-    # Language: Français (French)
-    # Author: Personnedu59 (1.8, 1.14), Zangdarss (1.8), Chucky2401 (1.10), TaeliaDideaux (1.13)
-    # Pack version supported: 1.14
+    // Language: Français (French)
+    // Author: Personnedu59 (1.8, 1.14), Zangdarss (1.8), Chucky2401 (1.10), TaeliaDideaux (1.13)
+    // Pack version supported: 1.14
     
-    # All language entries are organised in alphabetical order of file name as of 1.3
-    # All new advancements added in updates later than 1.3 (1.4, 1.5 and so on) will be put at the bottom of the file for easy locating and adding by translators
+    // All language entries are organised in alphabetical order of file name as of 1.3
+    // All new advancements added in updates later than 1.3 (1.4, 1.5 and so on) will be put at the bottom of the file for easy locating and adding by translators
     
-    # Adventuring tab as of 1.3
+    // Adventuring tab as of 1.3
 
     "Adventure": "Aventure",
     "Adventure and exploration": "Aventure et exploration",
@@ -1529,7 +1529,7 @@
     
     
     
-    # Building tab as of 1.3
+    // Building tab as of 1.3
 
     "A Masterpiece!": "Une œuvre d’art !",
     "Put up a painting": "Placez un tableau",
@@ -1668,7 +1668,7 @@
 
 
 
-    # Combat tab as of 1.3
+    // Combat tab as of 1.3
 
     "Blast Shield": "Bouclier nucléaire",
     "Survive a creeper's blast with your shield": "Survivez à une explosion de creeper grâce à votre bouclier",
@@ -1804,7 +1804,7 @@
     
     
     
-    # Enchanting tab as of 1.3
+    // Enchanting tab as of 1.3
 
     "Armor for the masses": "Armure blindée",
     "Obtain every protection related enchantment": "Obtenez tous les enchantements de protection",
@@ -1886,7 +1886,7 @@
     
     
     
-    # End tab as of 1.3
+    // End tab as of 1.3
 
     "Anti-Gravity Generator": "Anti-gravité",
     "Bring a shulker into the overworld and let it give you anti-gravity": "Ramenez un Shulker dans le monde normal et laissez-le vous faire léviter",
@@ -1971,7 +1971,7 @@
     
     
     
-    # Farming tab as of 1.3
+    // Farming tab as of 1.3
     
     "24 Carrot Gold": "De l’or plein les dents",
     "Eat a golden carrot": "Mangez une carotte dorée",
@@ -2128,7 +2128,7 @@
     
     
     
-    # Mining tab as of 1.3
+    // Mining tab as of 1.3
     
     "Acquire Hardware": "L’âge de fer",
     "Smelt an iron ingot": "Faites fondre du fer",
@@ -2205,7 +2205,7 @@
     "Aww it broke!": "Ah, cassé…",
     "Break your first tool": "Cassez votre premier outil",
     
-    ## On A Rail - description change
+    //// On A Rail - description change
     "Craft a minecart using five iron ingots": "Craftez un wagonnet avec 5 lingots de fer",
     
     "Redstone Miner": "Mineur de redstone",
@@ -2234,7 +2234,7 @@
     
     
     
-    # Nether tab as of 1.3
+    // Nether tab as of 1.3
     
     "A Terrible Fortress": "Une terrible forteresse",
     "Break your way into a Nether Fortress": "Visitez une forteresse",
@@ -2313,7 +2313,7 @@
     
     
     
-    # Potions tab as of 1.3
+    // Potions tab as of 1.3
     
     "A Furious Cocktail": "Mélange dangeureux",
     "Have every potion effect applied at the same time": "Appliquez sur vous-même tous les effets de potions en même temps",
@@ -2365,7 +2365,7 @@
     
     
     
-    # Redstone tab as of 1.3
+    // Redstone tab as of 1.3
     
     "Bling Plate": "Assiette bling bling",
     "Dine in style! (No, not really)": "Dînez comme un roi ! (non, pas vraiment)",
@@ -2426,7 +2426,7 @@
     
     
     
-    # All advancements added in version 1.4 are here
+    // All advancements added in version 1.4 are here
     
     "Beginning": "Les débuts",
     "A brave new world": "Un tout nouveau monde",
@@ -2785,7 +2785,7 @@
     
     
     
-    # All advancements added in version 1.5 are here
+    // All advancements added in version 1.5 are here
     
     "Iconic Merchandising Prop": "Marchandise iconique",
     "Create a pickaxe of the highest calibre": "Obtenir une pioche d’un bien meilleur calibre",
@@ -2931,7 +2931,7 @@
     
     
 
-    ## Glows in the Dark - description change
+    //// Glows in the Dark - description change
     "Shoot a mob with a spectral arrow": "Tirez sur quelque chose avec une flèche spectrale",
     
     "Bring Down The Beast": "Abattez la bête",
@@ -2949,7 +2949,7 @@
     
     
     
-    # All advancements added in version 1.6 are here
+    // All advancements added in version 1.6 are here
     
     "Beethoven": "Beethoven",
     "Craft a jukebox with planks and a diamond": "Craftez un jukebox avec des planches et un diamant",
@@ -3200,13 +3200,13 @@
     "Breed two pandas to get a baby panda": "Faites s’accoupler deux Pandas pour obtenir un bébé panda",
     
 
-    ## Adventure - description change
+    //// Adventure - description change
     "Village, Pillage and Dungeons!": "Village, pillage et donjons !",
     
-    ## Heeere's Johnny! - description change
+    //// Heeere's Johnny! - description change
     "Kill a Vindicator in a Woodland Mansion": "Tuez un Vindicateur dans un manoir",
     
-    ## Wololo ! - description change
+    //// Wololo ! - description change
     "Defeat an Evoker in a Woodland Mansion": "Tuez un Evocateur dans un manoir",
     
     "All chained up": "Enchainé",
@@ -3287,7 +3287,7 @@
     "Traveller": "Marché international",
     "Travel to every type of village and trade with a villager in each": "Voyagez dans tous les types de villages et commercer avec un Villageois dans chacun",
     
-    ## Travelling Merchant - description change
+    //// Travelling Merchant - description change
     "Trade with a Wandering Trader": "Commercez avec un Marchand Ambulant",
     
     "Veteran of the Village": "Légende du village",
@@ -3338,7 +3338,7 @@
     
     
     
-    # All advancements added in version 1.7 are here
+    // All advancements added in version 1.7 are here
     
     "I don't like sand": "Je n’aime pas le sable",
     "It's coarse, and rough, and irritating, and it gets everywhere": "Il est grossier, agressif, irritant et s'insinue partout",
@@ -3349,7 +3349,7 @@
     "Art Gallery": "Galerie d’art",
     "Place every type of painting": "Placer tous les types de peinture",
     
-    ## Speech! Speech! Speech! - name change
+    //// Speech! Speech! Speech! - name change
     "Writer's Block": "Bloc d’écrivain",
     
     
@@ -3386,7 +3386,7 @@
     "Superhero of the Village": "Super-héros du village",
     "Defeat enough raid captains to obtain a stack of Ominous Banners": "Obtenez 16 bannières de capitaines",
     
-    ## Voluntary Exile - name change
+    //// Voluntary Exile - name change
     "I've got a bad feeling about this": "J’ai un mauvais presentiment…",
     
     
@@ -3629,7 +3629,7 @@
     
     
     
-    # All advancements added in version 1.8 are here
+    // All advancements added in version 1.8 are here
     
     "Ya like jazz?": "T’aimes le jazz ?",
     "Breed two bees using flowers": "Faites se reproduire deux abeilles avec des fleurs",
@@ -3670,13 +3670,13 @@
     "Full Stomach": "La peau du ventre bien tendue",
     "Fill both your hunger bar and saturation level": "Remplissez à la fois la barre de faim et de saturation",
     
-    ## Display your items for all to see... - name change
+    //// Display your items for all to see... - name change
     "Help! I've been framed!": "Au secours ! J’ai été encadré !",
     
-    ## The garbage will do - description change
+    //// The garbage will do - description change
     "Craft a composter using wooden slabs then place it": "Craftez et placez un composteur en usitisant des dalles de bois",
     
-    ## Spelunker - description change
+    //// Spelunker - description change
     "Enter an underground cave": "Entrez dans une caverne souterraine",
     
     "Heart of Darkness": "Au cœur des ténèbres",
@@ -3693,7 +3693,7 @@
     
     
     
-    # All advancements added in version 1.9 are here
+    // All advancements added in version 1.9 are here
     
     "BlazeandCave's Advancements" : "Les progrès de BlazeandCave",
     "Loads of brand new advancements for your Minecraft world!" : "Beaucoup de nouveaux progrès pour votre monde Minecraft !",
@@ -3747,44 +3747,44 @@
     
     
     
-    # Name and description changes in version 1.9
+    // Name and description changes in version 1.9
     
-    ## How to stop a rhino from charging - name change
+    //// How to stop a rhino from charging - name change
     "I am Ravager, hear me ROAR!" : "Je suis un Ravageur, entends moi GREUH !",
     
-    ## Dragon vs Dragon II : Electric Boogaloo - name change
+    //// Dragon vs Dragon II : Electric Boogaloo - name change
     "Dragon vs Dragon II" : "Dragon vs Dragon II",
     
-    ## Legend of the Hell Chicken Rider - name change
+    //// Legend of the Hell Chicken Rider - name change
     "Legend of Hell Chicken Riders" : "La légende du chevaucheur de poulet de l’enfer",
     
-    ## Breaking the Law of Conservation of Matter - name change
+    //// Breaking the Law of Conservation of Matter - name change
     "Scientific Inaccuracy" : "Inexactitude scientifique",
     
     "Olaf" : "Olaf",
     "Do you want to build a snow golem?" : "Je voudrais un bonhomme de neige",
     
-    ## Mushroom, Mushroom, Mushroom, Mushroom! - name change
+    //// Mushroom, Mushroom, Mushroom, Mushroom! - name change
     "Mushroom, Mushroom!" : "Champimeuh, Champimeuh !",
     
-    ## Not for creating copies of yourself - name change
+    //// Not for creating copies of yourself - name change
     "Agent Smithing Table" : "Agent de table de forgeron",
     
-    ## Farrier - name change
+    //// Farrier - name change
     "Foal Play" : "Mon poulain",
     
-    ## Power of the Ocean - name change
+    //// Power of the Ocean - name change
     "Moskstraumen" : "Moskstraumen",
     
-    ## Oh, look, it dings! - description change
+    //// Oh, look, it dings! - description change
     "Ring a bell in a village" : "Sonnez une cloche dans un village",
     
-    ## Hell's Bells - description change
+    //// Hell's Bells - description change
     "Ring a bell in the Nether" : "Sonnez une cloche dans le Nether",
     
     
     
-    # All advancements added in version 1.10 are here
+    // All advancements added in version 1.10 are here
 
     "Dungeons and Spawners" : "Donjon et Spawner.",
     "Open a chest in a dungeon deep underground" : "Ouvrez un coffre dans un donjon sous-terrain",
@@ -4168,70 +4168,70 @@
     
     
     
-    # Name and description changes in version 1.10
+    // Name and description changes in version 1.10
     
-    ## Magic Book - name change
+    //// Magic Book - name change
     "Knowledge is Power" : "La connaissance, c'est le pouvoir !",
     
-    ## Fruit of the Looms - description change
+    //// Fruit of the Looms - description change
     "Obtain all the special banner patterns" : "Obtenez tous les motifs de bannière spéciaux",
     
-    ## Music to my ears - description change
+    //// Music to my ears - description change
     "Play a music disc in a jukebox" : "Mettez un disque de musique dans le Jukebox",
     
-    ## Disc Jocket - description change
+    //// Disc Jocket - description change
     "Listen to all the music discs" : "Écoutez tous les disques de musique",
     
-    ## Iron Man - description change
+    //// Iron Man - description change
     "Wear a full suit of iron armor" : "Portez une armure de fer complète",
     
-    ## Fake fortress - description change 
+    //// Fake fortress - description change 
     "Craft or collect all forms of nether brick and red nether brick" : "Crafter ou récupérer toutes les formes de briques du nether et de briques rouges du nether",
     
-    ## Greek Art Decor - description change
+    //// Greek Art Decor - description change
     "Craft all forms of quartz blocks" : "Fabriquez toutes les formes de blocs de Quartz",
     
-    ## Sweet dreams - description change
+    //// Sweet dreams - description change
     "Sleep in a bed to change your respawn point" : "Dormez dans un lit pour changer votre point de réapparition",
     
-    ## We've broken our last shovel - description change
+    //// We've broken our last shovel - description change
     "Break all six types of shovels" : "Cassez tous les types de pelles",
     
-    ## Axeman - description change
+    //// Axeman - description change
     "Attack a mob using all six types of axes" : "Frappez une créature avec tous les types de haches",
     
-    ## Shovel Knight - description change
+    //// Shovel Knight - description change
     "Hit a mob using all six types of shovels" : "Frappez une créature en utilisant chaque type de pelle",
     
-    ## Mollusc Man - description change
+    //// Mollusc Man - description change
     "Defeat a Drowned that is holding a nautilus shell" : "Tuez un Noyé qui tient une coquille de nautile",
     
-    ## Captain Etho - description change
+    //// Captain Etho - description change
     "Defeat a Drowned that is holding both a nautilus shell and a trident" : "Tuez un Noyé qui tient une coquille de nautile et un trident",
     
-    ## Stripper - description change
+    //// Stripper - description change
     "Strip the bark off of all six types of logs" : "Ecorcez les six types de bûches",
     
-    ## Marathon - description change
+    //// Marathon - description change
     "Sprint 42.195km" : "Courrez 42,195 km",
     
-    ## Overlevelling - description change
+    //// Overlevelling - description change
     "Reach 300 experience levels" : "Atteignez 300 niveaux d'expérience",
     
-    ## Frequent Flyer - description change
+    //// Frequent Flyer - description change
     "Fly 1000km with elytra" : "Volez 1000 km avec les Elytres",
     
-    ## X Marks the Spot - description change
+    //// X Marks the Spot - description change
     "Use a treasure map to find Buried Treasure" : "Utilisez une carte au trésor pour trouver un Trésor Enfoui",
     
     
 
-    # All advancements added in version 1.11 are here
+    // All advancements added in version 1.11 are here
 
     "Time to Dig!" : "Creuseur",
     "Use planks and sticks to make a shovel" : "Utilisez des planches et des bâtons pour faire une pelle",
     
-    ## Diamonds to you - description change
+    //// Diamonds to you - description change
     "Throw diamonds at another player or mob" : "Envoyer des diamants à un autre joueur ou une autre créature",
 
     
@@ -4313,45 +4313,45 @@
     
     
     
-    # Hardcore-Friendly Version description changes
+    // Hardcore-Friendly Version description changes
     
-    ## Rekt
+    //// Rekt
     "Get attacked by a natural iron golem defending its village" : "Faites-vous attaquer par un Golem de fer naturel protégeant son village",
     
-    ## So Long & Thanks For The Fish
+    //// So Long & Thanks For The Fish
     "Get attacked by dolphins" : "Faites-vous attaquer par un Dauphin",
     
-    ## Death from All
+    //// Death from All
     "Get hurt by every mob that can kill you" : "Faites-vous blesser par chaque créature pouvant vous tuer",
     
-    ## The Actual End
+    //// The Actual End
     "Get attacked by an Enderman in The End" : "Faites-vous attaquer par un Enderman dans l'End",
     
-    ## Loser!
+    //// Loser!
     "Take damage twice within ten seconds" : "Prenez des dégats deux fois en moins de dix secondes",
     
-    ## Et tu, Brute ?
+    //// Et tu, Brute ?
     "Get attacked by Piglin Brutes" : "Faites-vous attaquer par un Piglin barbare",
     
 
     
-    # Name and description changes in version 1.11
+    // Name and description changes in version 1.11
     
-    ## You Lead, I'll Follow - description change
+    //// You Lead, I'll Follow - description change
     "Attach a lead to a llama to form a llama caravan" : "Attachez une laisse à un Lama pour former une caravane",
     
-    ## Have a Shearful Day - description change
+    //// Have a Shearful Day - description change
     "Use Shears to obtain wool from a sheep" : "Utilisez des cisailles pour obtenir de la laine d’un Mouton",
     
-    ## Stayin' Frosty - description change
+    //// Stayin' Frosty - description change
     "Swim in lava while having the Fire Resistance effect" : "Nagez dans la lave avec l’effet resistance au feu",
     
-    ## Diamonds to you! - name change
+    //// Diamonds to you! - name change
     "Diemonds!" : "Diemants !",
     
 
     
-    # Trophies added in version 1.11
+    // Trophies added in version 1.11
 
     "Awarded for achieving" : "Obtenu pour avoir réussi",
     
@@ -4770,30 +4770,30 @@
     
 
     
-    # Renamed advancements and description changes in 1.11.2
+    // Renamed advancements and description changes in 1.11.2
 
-    ## Fake stronghold - description change
+    //// Fake stronghold - description change
     "Craft or collect all forms of normal, cracked, mossy and chiseled stone bricks" : "Fabriquer ou collecter toutes les formes de briques de pierre craquée, mossue, normamle ou sculptée",
     
-    ## Marine Marauder - description change
+    //// Marine Marauder - description change
     "Swim in water while having the Water Breathing effect" : "",
     
-    ## The Undead Cavalry - description change
+    //// The Undead Cavalry - description change
     "Ride a Skeleton Horse" : "Chevauche un Cheval squelette",
     
-    ## Lead the Way! - name change
+    //// Lead the Way! - name change
     "Follow the Leader" : "Suivez le leader !",
     
-    ## Eskimo - name change
+    //// Eskimo - name change
     "Barbearian" : "Barbe r-Ours",
     
-    ## Happy Birthday! - name and description change
+    //// Happy Birthday! - name and description change
     "Happy New Year!" : "Bonne année !",
     "Play for a whole Minecraft year" : "Jouer Durant une année entière de Minecraft",
     
     
     
-    ## All advancements added in version 1.12 are here
+    //// All advancements added in version 1.12 are here
     
     "Coppers and Robbers": "Délivre le cuivre",
     "Smelt a Copper Ingot": "Faites fondre un lingot de cuivre",
@@ -4892,7 +4892,7 @@
     "The Ritual Begins": "L’invocation peut commencer",
     "Get one stack of Black Candles": "Obtenir 64 bougies noires",
     
-    # Happy Birthday! - description change
+    // Happy Birthday! - description change
     "Place a candle on a cake": "Placer une bougie sur un gateau",
     
     "Pane in the Glass": "Vitraux",
@@ -5067,7 +5067,7 @@
     "Deal sixteen hearts of damage in a single melee blow": "Faites 16 cœurs de dégâts en une seule attaque de mélée ",
 
     
-    # The Haggler
+    // The Haggler
     "Trade with villagers 100 times": "Echangez avec des Villageois 100 fois",
     
     "Big Spender": "Gros dépensier",
@@ -5127,54 +5127,54 @@
     
     
     
-    # Renamed advancements and description changes in 1.12
+    // Renamed advancements and description changes in 1.12
     
-    ## The Haggler - name change
+    //// The Haggler - name change
     "Professional": "T’es un pro",
     
-    ## This Boat Has Legs - name change
+    //// This Boat Has Legs - name change
     "Hot Reels!": "Hot reels !",
     
-    ## Archaeologist - name change
+    //// Archaeologist - name change
     "Netherite Miner": "Mineur de Netherite",
     
     "Stepping on Legos": "Marcher sur des légos",
     "Walk on some hot Magma Blocks in the Nether": "Marchez sur des blocs de magma chaud dans le Nether",
     
-    ## Iron Miner - description change
+    //// Iron Miner - description change
     "Mine a stack of Raw Iron": "Minez une pile de fer brut",
     
-    ## Gold Miner - description change
+    //// Gold Miner - description change
     "Mine a stack of Raw Gold": "Minez une pile d’or brut",
     
-    ## Boaty McBoatface - description change
+    //// Boaty McBoatface - description change
     "Craft and ride a boat to sail on the high seas": "Craftez et montez dans un bateau pour naviguer en haute mer",
     
-    ## Nether Rock Collection - description change
+    //// Nether Rock Collection - description change
     "Mine a stack of Netherrack, Basalt, Blackstone and Magma in the Nether": "Minez une pile de netherrack, basalte, pierre noire et magma dans le Nether",
     
-    ## Pathways - description change
+    //// Pathways - description change
     "Use a shovel to create dirt paths": "Utilisez une pelle pour créer un chemin de terre",
     
-    ## Overkill - description change
+    //// Overkill - description change
     "Deal eight hearts of damage in a single melee blow": "Faire 8 cœurs de dégâts en une seule attaque de mélée",
     
     
     
-    # Hardcore-Friendly Version for 1.12 description changes
+    // Hardcore-Friendly Version for 1.12 description changes
 
-    ## NOT THE BEES!
+    //// NOT THE BEES!
     "Get stung by a bee": "Faites-vous piquer par une Abeille",
     
-    ## Goat Simulator
+    //// Goat Simulator
     "Get rammed into by a Goat.": "Faites-vous charger par une Chèvre",
     
-    ## Handmade Blinding
+    //// Handmade Blinding
     "Obtain a carved pumpkin enchanted with Curse of Binding. Be careful not to put it on!": "Obtenez une citrouille enchantée avec la malédiction du lien éternel. Attention de ne pas la mettre sur votre tête !",
     
     
     
-    # Trophies added in 1.12
+    // Trophies added in 1.12
     
     "Octuple Compressed Cobblestone": "Octuple pierre compressée",
     "Just imagine how much cobblestone it contains…": "Imaginez combine de pierres elle peut contenir…",
@@ -5289,13 +5289,13 @@
     
     
     
-    # 'Experience' label in Experience Rewards text
+    // 'Experience' label in Experience Rewards text
 
     "Experience" : "Expérience",
     
     
     
-    # Text that appears when unlocking a new tab
+    // Text that appears when unlocking a new tab
     
     "You have unlocked the root of the Adventure tab": "Tu as débloqué l’origine de l’onglet Aventure",
     
@@ -5330,7 +5330,7 @@
     
     
     
-    # Welcome message
+    // Welcome message
 
     "This world is using ": "Ce monde utilise ",
     "Blaze": "Blaze",
@@ -5339,11 +5339,11 @@
     "'s Advancements Pack!": "pack de progrès !",
     
     " Over ": " Plus de ",
-    ## Number is inserted here
+    //// Number is inserted here
     " brand new advancements in your Minecraft world!": "tout nouveaux progrès pour votre monde Minecraft !",
     
     " - Created by ": " – Créé par ",
-    ## Cavinator1
+    //// Cavinator1
     
     " - For information ": " “ Pour plus d’informations ",
     "click here": "Cliquer ici",
@@ -5352,13 +5352,13 @@
     "here": "ici",
     
     "Special thanks to my patreon donors: ": "Un grand merci à mes donateurs patreon",
-    ## Patreon Donors' names are listed here
+    //// Patreon Donors' names are listed here
     
     
     
-    # Configuration Menu
+    // Configuration Menu
 
-    ## BlazeandCave
+    //// BlazeandCave
 
     "'s Advancements Pack Config": "pack de progrès – Configuration :",
 
@@ -5388,11 +5388,11 @@
     "Click to disable": "Cliquer pour désactiver",
     "Click to run": "Cliquer pour lancer",
 
-    # Update scoreboard message
+    // Update scoreboard message
 
     "The advancement count of all players currently online has been updated.": "Le compte des progrès de chaque joueur en ligne a été mis à jour",
 
-    # Grant trophies are you sure message
+    // Grant trophies are you sure message
 
     "Are you sure?": "Êtes-vous sûr(e) ?",
     "This function should only be used in worlds that used the Advancements Pack before updating to the Trophy Update.": "Cette function ne devrait être utilisée uniquement dans les mondes qui ont utilisé le pack avant que les trophées ne soient ajoutés",
@@ -5405,7 +5405,7 @@
     "[ No ]": "[ Non ]",
     "Click to go back": "Cliquer pour revenir en arrière",
 
-    # Grant trophies confirmation message
+    // Grant trophies confirmation message
 
     "All players have been granted trophies.": "Tous les joueurs ont reçu les trophées.",
     "Players that have been granted trophies by this function in the past did not receive any now. To manually re-enable trophy granting for them use the command:": "Les joueurs ayant déjà reçu des trophées par cette commande n’en ont pas reçu. Pour leur permettre d’en recevoir manuellement de nouveau, utiliser cette commande :",
@@ -5414,7 +5414,7 @@
     
     
 
-    ## All advancements added in version 1.13 are here
+    //// All advancements added in version 1.13 are here
 
     "Dripstone Drop": "Chute en pointe",
     "Survive a fall of at least 10 blocks onto some Pointed Dripstone": "Survivez à une chute d'au moins 10 blocs sur du spéléothème pointu",
@@ -5511,7 +5511,7 @@
     "The ninth is to be a pirate; parrot, spyglass, map, and boat": "Mon neuvième est d'être un pirate; perroquet, longue-vue, carte et bateau",
     "The tenth, if you can achieve it, you will be the G.O.A.T.": "Mon dixième, si vous le réussissez, fera de vous un héros",
     
-    # Riddle Me This messages and hints
+    // Riddle Me This messages and hints
     "First line complete…": "Première ligne complète...",
     "Second line complete…": "Deuxième ligne complète...",
     "Third line complete…": "Troisième ligne complète...",
@@ -5529,7 +5529,7 @@
     
     
 
-    # Renamed advancements and description changes in 1.12
+    // Renamed advancements and description changes in 1.12
 
     "All Aboard!": "Tous à bord !",
     "Craft and board a Minecart for railway journeys": "Craftez et embarquez dans un wagonnet pour vos voyages ferroviaires",
@@ -5543,99 +5543,99 @@
     "Natural Sprinter": "Bête de course",
     "Sprint 10km": "Sprintez 10km",
     
-    ## Filthy Lich - name change
+    //// Filthy Lich - name change
     "Lichen Subscribe": "Lichen Subscribe",
     
-    ## Atlantis - name change
+    //// Atlantis - name change
     "Atlantis?": "Atlantide ?",
     
-    ## Foilage - name change
+    //// Foilage - name change
     "Foliage": "Feuillage",
     
-    ## How did We Get Here? - name change
+    //// How did We Get Here? - name change
     "How Did We Get Here?": "Comment en est-on arrivé là ?",
 
     
-    ## Adventuring Time - description change
+    //// Adventuring Time - description change
     "Discover every surface biome in the Overworld": "Découvrez tous les biomes du monde normal",
     
-    ## Explorer of Worlds - description change
+    //// Explorer of Worlds - description change
     "Discover every biome in every dimension": "Découvrez tous les biomes de toutes les dimensions",
     
-    ## Trampoline - description change
+    //// Trampoline - description change
     "Bounce onto a slime block from at least 30 blocks high": "Rebondissez sur un block de slime d'une chute d'au moins 30 blocs de haut",
     
-    ## Cool Kids - description change
+    //// Cool Kids - description change
     "Craft and wear a leather jacket": "Craftez et portez une veste en cuir",
     
-    ## Fashion Statement - description change
+    //// Fashion Statement - description change
     "Dye some leather pants with one color, then put them on": "Teintez un pantalon en cuir d'une couleur, puis mettez-les",
     
-    ## Fuel Engine - description change
+    //// Fuel Engine - description change
     "Craft a Minecart with Furnace and use coal or charcoal to send it chugging": "Craftez un wagonnet motorisé et utilisez du charbon pour le faire démarrer",
     
-    ## Troll Chest - description change
+    //// Troll Chest - description change
     "Trigger a trapped chest. Good for trolling your friends!": "Déclenchez un coffre piégé. Parfait pour piéger vos amis",
     
-    ## Tripping Over - description change
+    //// Tripping Over - description change
     "Place a line of string between two tripwire hooks, and trigger it": "Placez de la ficelle entre deux crochets, et déclenchez-les",
     
-    ## Under Pressure - description change
+    //// Under Pressure - description change
     "Step on a pressure plate": "Marchez sur une plaque de pression",
     
-    ## Let It Go! - description change
+    //// Let It Go! - description change
     "Using Frost Walker boots, walk on frozen water over a deep ocean": "En utilisant des Semelles Givrantes, marchez sur de l'eau glacée dans un océan profond",
     
-    ## Do A Barrel Roll! - description change
+    //// Do A Barrel Roll! - description change
     "Use Riptide to give yourself a boost": "Utilisez Impulsion opur vous donner un boost",
     
-    ## Kilometre Walk - description change
+    //// Kilometre Walk - description change
     "Travel at least 1000 blocks from the centre of the world in any direction.": "Voyagez au moins à 1000 blocs de distance depuis le centre du monde, dans n'importe quelle direction",
     
-    ## Ten Thousand Blocks - description change
+    //// Ten Thousand Blocks - description change
     "Travel at least 10,000 blocks from the centre of the world in any direction.": "Voyagez au moins à 10 000 blocs de distance depuis le centre du monde, dans n'importe quelle direction",
     
-    ## Olympic Gold Medallist - description change
+    //// Olympic Gold Medallist - description change
     "Swim 50km": "Nagez 50km",
     
-    ## Global Railway Network - description change
+    //// Global Railway Network - description change
     "Ride 50km in a minecart": "Parcourez 50km en wagonnet",
     
-    ## Who needs cars? - description change
+    //// Who needs cars? - description change
     "Walk 50km": "Marchez 50km",
     
-    ## I enjoy long walks and playing MC - description change
+    //// I enjoy long walks and playing MC - description change
     "Walk 250km": "Marchez 250km",
     
-    ## Time to Chop! - description change
+    //// Time to Chop! - description change
     "Use planks and sticks to make an axe": "Utilisez des planches et des bâtons pour faire une hache",
     
     
     
-    # Custom Advancement Completion messages
+    // Custom Advancement Completion messages
 
-    ## Has the syntax "<Player> has made the advancement <Advancement's name>"
+    //// Has the syntax "<Player> has made the advancement <Advancement's name>"
     "%1$s has made the advancement %2$s%3$s%4$s": "%1$s a complété le Progrès %2$s%3$s%4$s",
     "%1$s has reached the goal %2$s%3$s%4$s": "%1$s a atteint l'Objectif %2$s%3$s%4$s",
     "%1$s has completed the challenge %2$s%3$s%4$s": "%1$s a réussi le Défi %2$s%3$s%4$s",
     "%1$s has completed the super challenge %2$s%3$s%4$s": "%1$s a réalisé la Mission Impossible %2$s%3$s%4$s",
     "%1$s has found the hidden advancement %2$s%3$s%4$s": "%1$s a trouvé le progrès Caché %2$s%3$s%4$s",
     
-    ## There are 5 %1$s's here for the advancement "65 Hours of Walking"
+    //// There are 5 %1$s's here for the advancement "65 Hours of Walking"
     "%1$s has found the hidden advancement %2$s%3$s%4$s%5$s%6$s": "%1$s a trouvé le progrès Caché %2$s%3$s%4$s%5$s%6$s",
     
-    ## For milestones, it goes <Player> has completed every advancement in the <Tab name> tab, earning them the advancement <Milestone's name>
+    //// For milestones, it goes <Player> has completed every advancement in the <Tab name> tab, earning them the advancement <Milestone's name>
     "%1$s has completed every advancement in the %2$s tab, earning them the advancement %3$s%4$s%5$s": "%1$s a complété tous les progrès dans l'onglet %2$s, gagnant le progrès %3$s%4$s%5$s",
     
-    ## Note: Because The End already has a 'the' in it, this line is exclusively used in End Milestone
+    //// Note: Because The End already has a 'the' in it, this line is exclusively used in End Milestone
     "%1$s has completed every advancement in %2$s tab, earning them the advancement %3$s%4$s%5$s": "%1$s a complété tous les progrès dans l'onglet %2$s, gagnant le progrès %3$s%4$s%5$s",
     
-    ## Advancement Legend
+    //// Advancement Legend
     "%1$s has completed every advancement in BlazeandCave's Advancements Pack, earning them the coveted title of %2$s%3$s%4$s": "%1$s a complété tous les progrès du BlazeandCave's Advancements Pack, lui procurant le titre convoité de %2$s%3$s%4$s",
     
     
     
-    # Trophies added in 1.13
+    // Trophies added in 1.13
 
     "Azalea Parachute": "Parachute d'azalée",
     "Good thing you didn't need this": "Heureusement que vous n'en avez pas eu besoin",
@@ -5648,7 +5648,7 @@
     
     "Flex Tape": "Scotch",
     "To show the power of Flex Tape, you sawed all the blocks in half!": "Pour vous montrer le pouvoir du Scotch, coupons tous les blocs en deux !",
-    "#NotSponsored": "#PasSponsorisé",
+    "//NotSponsored": "//PasSponsorisé",
     
     "Stairway to Heaven": "Stairways to Heaven",
     "Whatever you do, don't listen to it backwards!": "Faites ce que vous voulez, mais ne l'écoutez pas à l'envers !",
@@ -5688,12 +5688,12 @@
     "Golden Advancement Plaque": "Plaque de Progrès Dorée",
     "Awarded to this datapack for reaching 1000 advancements": "Recue pour avoir complété les 1000 progrès de ce datapack",
     
-    ## The Toilet trophy for 'WHERE'S THE HONEY LEBOWSKI' received a description change
+    //// The Toilet trophy for 'WHERE'S THE HONEY LEBOWSKI' received a description change
     "WHERE'S THE HONEY?!!!": "OU EST LE MIEL?!!!",
     
 
     
-    # Configuration menu additions in 1.13
+    // Configuration menu additions in 1.13
     "Cooperative Mode currently enabled": "Mode Coopératif actuellement activé",
     "Cooperative Mode currently disabled": "Mode Coopératif actuellement désactivé",
     
@@ -5708,7 +5708,7 @@
     
 
 
-    # The syntax for these text strings is e.g. 'Item Rewards: All players'
+    // The syntax for these text strings is e.g. 'Item Rewards: All players'
 
     "Item Rewards: ": "Items en récompense: ",
     "Experience Rewards:": "Expérience en récompense: ",
@@ -5737,7 +5737,7 @@
     
 
 
-    # The syntax for these text strings is e.g. 'Task Advancements: All players'
+    // The syntax for these text strings is e.g. 'Task Advancements: All players'
 
     "Task": "Tâche",
     "Goal": "Objectif",
@@ -5758,7 +5758,7 @@
     
 
 
-# Advancements added in the Terralith version for BACAP 1.13.1
+// Advancements added in the Terralith version for BACAP 1.13.1
 "A Cliffhanger!": "Canyoning !",
 "Discover every type of cliff biome": "Découvrez tous les biomes falaise",
 
@@ -5813,7 +5813,7 @@
 "The World Is Your Canvas": "Le monde est ta toile",
 "Discover the Painted Mountains": "Découvrez les Montagnes Peintes",
 
-# Adjusted descriptions
+// Adjusted descriptions
 "Discover every vanilla surface biome in the Overworld": "Découvrez tous les biomes de surface normaux dans le monde normal",
 "Discover every vanilla biome from every dimension": "Découvrez tous les biomes normaux de toutes les dimensions",
 
@@ -5824,7 +5824,7 @@
 
 
 
-# Configuration menu additions in 1.13.3-1.13.6
+// Configuration menu additions in 1.13.3-1.13.6
 "First player on each team": "Premier joueur de chaque équipe",
 "Click to enable for the first player on each team": "Cliquer pour autoriser le premier joueur de chaque équipe",
 
@@ -5882,7 +5882,7 @@
 "Technical Settings": "Options avancées",
 "Warning: Some of these settings may cause adverse effects on your progress, and will cause a lag-spike upon being used. Only use if you absolutely know what they do! Use with caution!": "Attention : Certaines des options suivantes peuvent causer des effets secondaires sur votre avancée, et vont causer des pics de lags lorsque utilisées. Ne les utiliser uniquement si vous savez exactement ce que vous faites ! A utiliser avec précautions !",
 
-# Update Scoreboard
+// Update Scoreboard
 "Goes through every advancement for every player online, and recounts how many advancements they have": "Recompte le nombre de progrès de chaque joueur connecté",
 "Should be used if:": "Doit être utilisé si :",
 "- You have recently updated to a new datapack version, especially across a new Minecraft update": "-Vous avez récemment mis à jour le datapack à une version plus récente, en particulier lors des mises à jour de Minecraft",
@@ -5921,7 +5921,7 @@
 
 
 
-# Advancements added in the Terralith version for BACAP 1.13.5
+// Advancements added in the Terralith version for BACAP 1.13.5
 "A Journey Begins": "Le voyage commence",
 "Find a Traveller’s Map": "Trouvez une Carte du Voyageur",
 
@@ -5945,7 +5945,7 @@
 
 
 
-## All advancements added in version 1.14 are here
+//// All advancements added in version 1.14 are here
 "Sneak 100": "Furtivité 100",
 "Sneak near something in the Deep Dark to prevent being heard": "Faufilez-vous près d’un capteur Sculk, d’un hurleur Sculk ou d’un Warden pour l’empêcher de vous entendre",
 
@@ -6098,35 +6098,35 @@
 "Travel all the way to the border of the world": "Voyagez jusqu’à la limite du monde",
 
 
-# Description changes in 1.14
+// Description changes in 1.14
 
-# Vibe Check
+// Vibe Check
 "Use Silk Touch to pick up a Sculk Sensor or find one among Ancient City treasure": "Utilisez Toucher de Soie pour obtenir un Capteur Sculk ou en trouver un dans une Ancienne Cité",
 
-# Spelunker
+// Spelunker
 "Discover every cave biome": "Découvrez tous les biomes carverneux",
 
-# Yay! I got my wood!
+// Yay! I got my wood!
 "Collect every type of log": "Collectez tous les types de bûche",
 
-# Stripper
+// Stripper
 "Strip the bark off every type of log": "Retirez l’écorce de tous les types de bûche",
 
-# Ecologist
+// Ecologist
 "Plant down all types of saplings": "Plantez tous les types de pousses",
 
-# The Mighty Hunter
+// The Mighty Hunter
 "Hunt all types of land animals with your bow": "Chassez tous les types d’animaux avec votre arc",
 
-# Adventuring Time
+// Adventuring Time
 "Discover each type of surface biome in the Overworld": "Découvrez tous les types de biomes de surface dans le monde normal",
 
 
-# The word 'tab' as it appears when mousing over an Advancement in chat
+// The word 'tab' as it appears when mousing over an Advancement in chat
 "tab": "onglet",
 
 
-# Trophies added in 1.14
+// Trophies added in 1.14
 "Mobbo": "Mobbo",
 "They are your bestest friend!": "Ils sont tes meilleurs amis !",
 
@@ -6186,5 +6186,5 @@
 
 
 
-# All advancements and trophies that get added in versions 1.15 or later will be added down here for easy locating by translators who wish to update their language file
+// All advancements and trophies that get added in versions 1.15 or later will be added down here for easy locating by translators who wish to update their language file
 }

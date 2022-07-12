@@ -1392,22 +1392,22 @@
 
 
 
-    # BlazeandCave's Advancements Pack Language File
+    // BlazeandCave's Advancements Pack Language File
  
-    # How to use: Name and descriptions of advancement to left of : and put translation to right of :, inside the speech marks "" like this: "Advancement Description"
-    # Some advancement titles make use of puns that would work in English but probably not in other languages. Be creative if you wish if you can find any puns in foreign languages.
+    // How to use: Name and descriptions of advancement to left of : and put translation to right of :, inside the speech marks "" like this: "Advancement Description"
+    // Some advancement titles make use of puns that would work in English but probably not in other languages. Be creative if you wish if you can find any puns in foreign languages.
     
-    # This file will be updated with new advancements with each new update.
-    # Currently the text that appears with reward functions are not translatable - support for translating the reward functions messages will come in a later update.
+    // This file will be updated with new advancements with each new update.
+    // Currently the text that appears with reward functions are not translatable - support for translating the reward functions messages will come in a later update.
     
-    # Language: Vietnamese
-    # Author: quank6 (and FehnLmao lol)
-    # Pack version supported: 1.13.2
+    // Language: Vietnamese
+    // Author: quank6 (and FehnLmao lol)
+    // Pack version supported: 1.13.2
     
-    # All language entries are organised in alphabetical order of file name as of 1.3
-    # All new advancements added in updates later than 1.3 (1.4, 1.5 and so on) will be put at the bottom of the file for easy locating and adding by translators
+    // All language entries are organised in alphabetical order of file name as of 1.3
+    // All new advancements added in updates later than 1.3 (1.4, 1.5 and so on) will be put at the bottom of the file for easy locating and adding by translators
     
-    # Adventuring tab as of 1.3
+    // Adventuring tab as of 1.3
     
     "Adventuring Time": "Giờ phiêu lưu",
     "Discover every biome": "Khám phá tất cả các quần xã",
@@ -1539,7 +1539,7 @@
     
     
     
-    # Building tab as of 1.3
+    // Building tab as of 1.3
     "A Masterpiece!": "Một kiệt tác!",
     "Put up a painting": "Treo một bức tranh",
     
@@ -1677,7 +1677,7 @@
     
     
     
-    # Combat tab as of 1.3
+    // Combat tab as of 1.3
     "Blast Shield": "Khiến chống nổ",
     "Survive a creeper's blast with your shield": "Sống sót sau vụ nổ của creeper với chiếc khiên của bạn",
     
@@ -1812,7 +1812,7 @@
     
     
     
-    # Enchanting tab as of 1.3
+    // Enchanting tab as of 1.3
     "Armor for the masses": "Áo giáp cho mọi người",
     "Obtain every protection related enchantment": "Có được mọi phù phép liên quan đến bảo vệ",
     
@@ -1893,7 +1893,7 @@
     
     
     
-    # End tab as of 1.3
+    // End tab as of 1.3
     "Anti-Gravity Generator": "Máy tạo Không từ trường",
     "Bring a shulker into the overworld and let it give you anti-gravity": "Mang một con shulker đến Overworld và để nó làm bạn lơ lửng",
     
@@ -1977,7 +1977,7 @@
     
     
     
-    # Farming tab as of 1.3
+    // Farming tab as of 1.3
     "24 Carrot Gold": "Cà rốt vàng 24 cara",
     "Eat a golden carrot": "Ăn một củ cà rốt vàng",
     
@@ -2133,7 +2133,7 @@
     
     
     
-    # Mining tab as of 1.3
+    // Mining tab as of 1.3
     "Acquire Hardware": "Lấy được phần cứng",
     "Smelt an iron ingot": "Nung được một phôi sắt",
     
@@ -2238,7 +2238,7 @@
     
     
     
-    # Nether tab as of 1.3
+    // Nether tab as of 1.3
     "A Terrible Fortress": "Một pháo đài kinh khủng",
     "Break your way into a Nether Fortress": "Đột nhập vào Pháo đài Địa ngục",
     
@@ -2316,7 +2316,7 @@
     
     
     
-    # Potions tab as of 1.3
+    // Potions tab as of 1.3
     "A Furious Cocktail": "Một ly cocktail nguy hiểm",
     "Have every potion effect applied at the same time": "Có được mọi hiệu ứng từ bình thuốc cùng một lúc",
     
@@ -2367,7 +2367,7 @@
     
     
     
-    # Redstone tab as of 1.3
+    // Redstone tab as of 1.3
     "Bling Plate": "Cái đĩa lấp lánh",
     "Dine in style! (No, not really)": "Ăn cơm theo phong cách(Không, không hẳn vậy)",
     
@@ -2427,7 +2427,7 @@
     
     
     
-    # All advancements added in version 1.4 are here
+    // All advancements added in version 1.4 are here
     
     "Beginning": "Khởi đầu",
     "A brave new world": "Một thế giới hoàn toàn mới",
@@ -2806,7 +2806,7 @@
     
     
     
-    # All advancements added in version 1.5 are here
+    // All advancements added in version 1.5 are here
     
     "Iconic Merchandising Prop": "Đề xuất bán hàng mang tính biểu tượng",
     "Create a pickaxe of the highest calibre": "Chế tạo một cái cúp xịn sò nhất",
@@ -2987,7 +2987,7 @@
     
     
     
-    # All advancements added in version 1.6 are here
+    // All advancements added in version 1.6 are here
     "Beethoven": "Bét-tô-ven",
     "Craft a jukebox with planks and a diamond": "Chế tạo một cái hộp nhạc bằng ván gỗ và kim cương",
     
@@ -3393,7 +3393,7 @@
     
     
     
-    # All advancements added in version 1.7 are here
+    // All advancements added in version 1.7 are here
     "I don't like sand": "Tôi không thích cát",
     "It's coarse, and rough, and irritating, and it gets everywhere": "Nó khô và thô ráp, và khó chịu, và nó có ở khắp mọi nơi",
     
@@ -3706,7 +3706,7 @@
     
     
     
-    # All advancements added in version 1.8 are here
+    // All advancements added in version 1.8 are here
     "Ya like jazz?": "Thích nhạc jazz chứ?",
     "Breed two bees using flowers": "Nhân giống hai con ong bằng hoa",
     
@@ -3775,7 +3775,7 @@
     
     
     
-    # All advancements added in version 1.9 are here
+    // All advancements added in version 1.9 are here
     "BlazeandCave's Advancements" : "Tiến trình BalzeandCave",
     "Loads of brand new advancements for your Minecraft world!" : "Rất nhiều tiến trình hoàn toàn mới cho thế giới Minecraft của bạn!",
     
@@ -3830,7 +3830,7 @@
     
     
     
-    # Name and description changes in version 1.9
+    // Name and description changes in version 1.9
     "I am Ravager, hear me ROAR!" : "Tôi là Quái thú cướp bóc, nghe tôi GẦM đi!",
     
     "Dragon vs Dragon II" : "Rồng vs Rồng II",
@@ -3856,7 +3856,7 @@
     
     
     
-    # All advancements added in version 1.10 are here
+    // All advancements added in version 1.10 are here
     "Dungeons and Spawners" : "Ngục tối và những cái Lồng Spawn",
     "Open a chest in a dungeon deep underground" : "Mở một cái rương trong một cái ngục tối sâu dưới lòng đất",
     
@@ -4267,7 +4267,7 @@
     
     
     
-    # Name and description changes in version 1.10
+    // Name and description changes in version 1.10
     "Knowledge is Power" : "Tri thức là Sức mạnh",
     
     "Obtain all the special banner patterns" : "Có được tất cả các họa tiết cờ hiệu đặc biệt",
@@ -4306,7 +4306,7 @@
     
     
     
-    # Hardcore-Friendly Version description changes
+    // Hardcore-Friendly Version description changes
     "Get attacked by a natural iron golem defending its village" : "Bị tấn công bởi một con golem sắt tự nhiên bảo vệ ngôi làng của nó",
     
     "Get attacked by dolphins" : "Bị cá heo tấn công",
@@ -4320,7 +4320,7 @@
     "Get attacked by Piglin Brutes" : "Bị tấn công bởi Piglin Tàn bạo",
     
     
-    # All advancements added in version 1.11 are here
+    // All advancements added in version 1.11 are here
     "Time to Dig!" : "Giờ Đào đât!",
     "Use planks and sticks to make a shovel" : "Dùng ván gỗ và que để làm một cái xẻng",
     
@@ -4405,7 +4405,7 @@
     "Mine a stack of Netherrack, Basalt, Blackstone and Glowstone in the Nether" : "Khai thác một stack Netherrack, Đá ba dan, Đá đen và Đá phát sáng ở Địa ngục",
     
     
-    # Name and description changes in version 1.11
+    // Name and description changes in version 1.11
     "Attach a lead to a llama to form a llama caravan" : "Buộc một cái dây cưỡi vào một con lạc đà không bướu để tạo một đội hình lạc đà không bướu",
     
     "Use Shears to obtain wool from a sheep" : "Dùng Kéo để lấy len từ một con cừu",
@@ -4415,7 +4415,7 @@
     "Diemonds!" : "Kim cương chết chóc!",
     
     
-    # Trophies added in version 1.11
+    // Trophies added in version 1.11
     "Awarded for achieving" : "Được thưởng vì đã đạt được",
     
     
@@ -4865,7 +4865,7 @@
     
     
     
-    # Renamed advancements and description changes in 1.11.2
+    // Renamed advancements and description changes in 1.11.2
     "Craft or collect all forms of normal, cracked, mossy and chiseled stone bricks" : "Chế tạo hoặc sưu tầm tất cả các dạng gạch đá thông thường, gạch đá bị nứt, gạch đá rêu, gạch đá được đục",
     
     "Swim in water while having the Water Breathing effect" : "Bơi trong nước trong khi có hiệu ứng Thở dưới Nước",
@@ -4881,7 +4881,7 @@
     
     
     
-    ## All advancements added in version 1.12 are here
+    //// All advancements added in version 1.12 are here
     "Coppers and Robbers": "Đồng và Cướp",
     "Smelt a Copper Ingot": "Nung được một Phôi Đồng",
     
@@ -4981,7 +4981,7 @@
     "The Ritual Begins": "Nghi lễ Bắt đầu",
     "Get one stack of Black Candles": "Có 1 stack Nến màu Đen",
     
-    # "Happy Birthday!": "Chúc mừng Sinh nhật!"
+    // "Happy Birthday!": "Chúc mừng Sinh nhật!"
     "Place a candle on a cake": "Đặt một cái nến lên bánh kem",
     
     "Pane in the Glass": "Kính vạn hoa",
@@ -5174,7 +5174,7 @@
     
     
     
-    # "The Haggler": "Người mặc cả"
+    // "The Haggler": "Người mặc cả"
     "Trade with villagers 100 times": "Trao đổi với dân làng 100 lần",
     
     "Big Spender": "Đại gia Tiêu tiền",
@@ -5243,7 +5243,7 @@
     
     
     
-    # Renamed advancements and descriptioan changes in 1.12
+    // Renamed advancements and descriptioan changes in 1.12
     "Professional": "Giáo sư",
     
     "Hot Reels!": "Cuộc đua Nóng nảy",
@@ -5268,7 +5268,7 @@
     
     
     
-    # Hardcore-Friendly Version for 1.12 description changes
+    // Hardcore-Friendly Version for 1.12 description changes
     "Get stung by a bee": "Bị một ong đốt",
     
     "Get rammed into by a Goat.": "Bị một con Dê húc",
@@ -5278,7 +5278,7 @@
     
     
     
-    # Trophies added in 1.12
+    // Trophies added in 1.12
     "Octuple Compressed Cobblestone": "Đá cuội được Nén Tám lần",
     "Just imagine how much cobblestone it contains…": "Chỉ cần tưởng tượng nó chứa bao nhiêu đá cuội…",
     
@@ -5393,13 +5393,13 @@
     
     
     
-    # 'Experience' label in Experience Rewards text
+    // 'Experience' label in Experience Rewards text
     "Experience" : "Kinh nghiệm",
     
     
     
     
-    # Text that appears when unlocking a new tab
+    // Text that appears when unlocking a new tab
     "You have unlocked the root of the Adventure tab": "Bạn đã mở khóa mục gốc của mục Phiêu lưu",
     
     "You have unlocked the root of the Animals tab": "Bạn đã mở khóa mục gốc của mục Động vật",
@@ -5434,7 +5434,7 @@
     
     
     
-    # Welcome message
+    // Welcome message
     "This world is using ": "Thế giới này đang dùng",
     "Blaze": "Gói",
     "and": "tiến ",
@@ -5442,11 +5442,11 @@
     "'s Advancements Pack!": "của Blaze và Cave",
     
     " Over ": " Tiếp ",
-    ## Number is inserted here
+    //// Number is inserted here
     " brand new advancements in your Minecraft world!": " tiến trình mới được thêm vào thế giới Minecraft của bạn!",
     
     " - Created by ": " - Được tạo bởi",
-    ## Cavinator1
+    //// Cavinator1
     
     " - For information ": " - Để biết thêm thông tin",
     "click here": "nhấn vào đây",
@@ -5455,13 +5455,13 @@
     "here": "tại đây",
     
     "Special thanks to my patreon donors: ": "Xin cảm ơn tất cả những người quyên góp patreon của tôi",
-    ## Patreon Donors' names are listed here
+    //// Patreon Donors' names are listed here
     
     
     
     
-    # Configuration Menu
-    ## BlazeandCave
+    // Configuration Menu
+    //// BlazeandCave
     "'s Advancements Pack Config": "Cấu hình Gói Tiến trình",
     
     "Welcome Message currently enabled": "Thông báo chào mừng hiện đã được bật",
@@ -5490,10 +5490,10 @@
     "Click to disable": "Nhấn để tắt",
     "Click to run": "Nhấn để chạy",
     
-    # Update scoreboard message
+    // Update scoreboard message
     "The advancement count of all players currently online has been updated.": "Số lượng tiến trình của tất cả người chơi hiện đang trực tuyến đã được cập nhật.",
     
-    # Grant trophies are you sure message
+    // Grant trophies are you sure message
     "Are you sure?": "Bạn chắc chưa?",
     "This function should only be used in worlds that used the Advancements Pack before updating to the Trophy Update.": "Chức năng này chỉ nên được sử dụng trong các thế giới đã sử dụng Gói Tiến trình trước khi cập nhật lên Bản cập nhật Cúp.",
     "This function may also grossly fill inventories so make sure everyone is prepared to receive them!": "Chức năng này cũng có thể lấp đầy túi đồ nên hãy đảm bảo rằng mọi người đã chuẩn bị sẵn sàng để nhận chúng!",
@@ -5504,14 +5504,14 @@
     "[ No ]": "[ Không ]",
     "Click to go back": "Nhấn để quay trở lại",
     
-    # Grant trophies confirmation message
+    // Grant trophies confirmation message
     "All players have been granted trophies.": "Tất cả người chơi đã được nhận cúp.",
     "Players that have been granted trophies by this function in the past did not receive any now. To manually re-enable trophy granting for them use the command:": "Người chơi đã được chức năng này trao cúp trong quá khứ không nhận được bất kỳ chiếc cúp nào bây giờ. Để bật lại việc trao cúp cho họ theo cách thông thường, hãy sử dụng lệnh:",
     "Click to insert command into chat": "Nhấn để chèn lệnh vào thanh trò chuyện",
     
     
     
-    ## All advancements added in version 1.13 are here
+    //// All advancements added in version 1.13 are here
     "Dripstone Drop": "Cú nhảy Nhũ đá",
     "Survive a fall of at least 10 blocks onto some Pointed Dripstone": "Sống sót khỏi một cú rơi thấp nhất 10 khối vào Nhũ đá",
     
@@ -5608,7 +5608,7 @@
     "The ninth is to be a pirate; parrot, spyglass, map, and boat": "Thứ chín là làm cướp biển; con vẹt, ống nhòm, bản đồ và thuyền",
     "The tenth, if you can achieve it, you will be the G.O.A.T.": "Thứ mười, nếu bạn có thể đạt được nó, bạn sẽ là Người vĩ đại nhất của mọi thời đại",
     
-    # Riddle Me This messages and hints
+    // Riddle Me This messages and hints
     "First line complete…": "Dòng đầu tiên hoàn thành...",
     "Second line complete…": "Dòng thứ hai hoàn thành...",
     "Third line complete…": "Dòng thứ ba hoàn thành...",
@@ -5625,7 +5625,7 @@
     "Like how this is the thousandth advancement added to the pack": "Giống như cách đây là tiến trình thứ một nghìn được thêm vào gói",
     
     
-    # Renamed advancements and description changes in 1.12
+    // Renamed advancements and description changes in 1.12
     "All Aboard!": "Tất cả Trên tàu!",
     "Craft and board a Minecart for railway journeys": "Chế tạo và lên một cái xe mỏ cho một chuyến đi đường sắt",
     
@@ -5649,85 +5649,85 @@
     "How Did We Get Here?": "Chúng ta Tới Đây Bằng cách nào nhỉ?",
     
     
-    # Description changes
+    // Description changes
     
-    # # Adventuring Time
+    // // Adventuring Time
     "Discover every surface biome in the Overworld": "Khám phá mọi quần xã trên bề mặt của Overworld",
     
-    # # Explorer of Worlds
+    // // Explorer of Worlds
     "Discover every biome in every dimension": "Khám phá mọi quần xã ở mọi chiều không gian",
     
-    # # Trampoline
+    // // Trampoline
     "Bounce onto a slime block from at least 30 blocks high": "Nhảy vào khối chất nhờn từ độ cao ít nhất 30 khối",
     
-    # # Cool Kids
+    // // Cool Kids
     "Craft and wear a leather jacket": "Chế tạo và mặc một cái áo khoác da",
     
-    # # Fashion Statement
+    // // Fashion Statement
     "Dye some leather pants with one color, then put them on": "Nhuộm một cái quần da với một màu, và mặc nó",
     
-    # # Fuel Engine
+    // // Fuel Engine
     "Craft a Minecart with Furnace and use coal or charcoal to send it chugging": "Chế tạo một cái Xe mỏ với Lò nung và sử dụng than hoặc than củi để đưa nó đi",
     
-    # # Troll Chest
+    // // Troll Chest
     "Trigger a trapped chest. Good for trolling your friends!": "Kích hoạt một cái rương bị kẹt. Tốt chơi việc chơi khăm bạn bè!",
     
-    # # Tripping Over
+    // // Tripping Over
     "Place a line of string between two tripwire hooks, and trigger it": "Đặt một sợi dây chỉ giữa hai cái móc dây bẫy, và kích hoạt nó",
     
-    # # Under Pressure
+    // // Under Pressure
     "Step on a pressure plate": "Dẫm lên một tấm áp lực",
     
-    # # Let It Go!
+    // // Let It Go!
     "Using Frost Walker boots, walk on frozen water over a deep ocean": "Dùng một đôi dài Chân lạnh, đi trên nước đóng băng qua một đại dương sâu thẳm",
     
-    # # Do A Barrel Roll!
+    // // Do A Barrel Roll!
     "Use Riptide to give yourself a boost": "Dùng Sóng dữ để tăng tốc cho bạn",
     
-    # # Kilometre Walk
+    // // Kilometre Walk
     "Travel at least 1000 blocks from the centre of the world in any direction.": "Đi ít nhất 1000 khối từ trung tâm của thế giới theo mọi hướng",
     
-    # # Ten Thousand Blocks
+    // // Ten Thousand Blocks
     "Travel at least 10,000 blocks from the centre of the world in any direction.": "Đi ít nhất 10,000 khối từ trung tâm của thế giới theo mọi hướng",
     
-    # # Olympic Gold Medallist
+    // // Olympic Gold Medallist
     "Swim 50km": "Bơi 50km",
     
-    # # Global Railway Network
+    // // Global Railway Network
     "Ride 50km in a minecart": "Đi 50km bằng xe mỏ",
     
-    # # Who needs cars?
+    // // Who needs cars?
     "Walk 50km": "Đi bộ 50km",
     
-    # # I enjoy long walks and playing MC
+    // // I enjoy long walks and playing MC
     "Walk 250km": "Đi bộ 250km",
     
-    # # Time to Chop!
+    // // Time to Chop!
     "Use planks and sticks to make an axe": "Dùng ván gỗ và que để làm một cái rìu",
     
     
     
-    # Custom Advancement Completion messages
-    # # Has the syntax <Player> has made the advancement <Advancement's name>
+    // Custom Advancement Completion messages
+    // // Has the syntax <Player> has made the advancement <Advancement's name>
     "has made the advancement": "đã đạt được tiến trình",
     "has reached the goal": "đã đạt được mục tiêu",
     "has completed the challenge": "đã hoàn thành thử thách",
     "has completed the super challenge": "đã hoàn thành siêu thử thách",
     "has found the hidden advancement": "đã tìm thấy tiến trình ẩn",
     
-    # # For milestones, it goes <Player> has completed every advancement in the <Tab name> tab, earning them the advancement <Milestone's name>
+    // // For milestones, it goes <Player> has completed every advancement in the <Tab name> tab, earning them the advancement <Milestone's name>
     "has completed every advancement in the": "đã hoàn thành mọi tiến trình trong mục",
     "tab, earning them the advancement": ", kiếm cho họ sự tiến trình",
     
-    # # Note: Because The End already has a 'the' in it, this line is exclusively used in 'End Milestone'
+    // // Note: Because The End already has a 'the' in it, this line is exclusively used in 'End Milestone'
     "has completed every advancement in": "đã hoàn thành mọi tiến trình ở mục",
     
-    # # Advancement Legend
+    // // Advancement Legend
     "has completed every advancement in BlazeandCave's Advancements Pack, earning them the coveted title of": "đã hoàn thành mọi tiến trình ở trong Gói Tiến Trình của BlazeandCave, kiếm cho họ danh hiệu",
     
     
     
-    # Trophies added in 1.13
+    // Trophies added in 1.13
     "Azalea Parachute": "Dù Đỗ quyên",
     "Good thing you didn't need this": "Điều tốt là bạn không cần cái này",
     
@@ -5739,7 +5739,7 @@
     
     "Flex Tape": "Băng dính Flex",
     "To show the power of Flex Tape, you sawed all the blocks in half!": "Để thể hiện sức mạnh của Băng dính Flex, bạn đã cưa tất cả các khối thành một nửa!",
-    "#NotSponsored": "#NotSponsored",
+    "//NotSponsored": "//NotSponsored",
     
     "Stairway to Heaven": "Cầu thang tời Thiên đàng",
     "Whatever you do, don't listen to it backwards!": "Làm gì cũng được, đừng nghe ngược!",
@@ -5779,11 +5779,11 @@
     "Golden Advancement Plaque": "Huân chương Tiến trình Vàng",
     "Awarded to this datapack for reaching 1000 advancements": "Được trao cho gói dữ liệu này vì đã đạt được 1000 tiến trình",
     
-    # # The Toilet trophy for 'WHERE'S THE HONEY LEBOWSKI' received a description change
+    // // The Toilet trophy for 'WHERE'S THE HONEY LEBOWSKI' received a description change
     "WHERE'S THE HONEY?!!!": "MẬT ONG Ở ĐÂU?!!!",
     
     
-    # Configuration menu additions in 1.13
+    // Configuration menu additions in 1.13
     "Cooperative Mode currently enabled": "Chế độ Hợp tác hiện đang được bật",
     "Cooperative Mode currently disabled": "Chế độ Hợp tác hiện đang được tắt",
     
@@ -5796,7 +5796,7 @@
     "Click to enable only for the first player to get an advancement": "Nhấp để chỉ kích hoạt cho người chơi đầu tiên nhận được tiến trình",
     "Click to disable for all players": "Nhấp để tắt cho tất cả người chơi",
     
-    # The syntax for these text strings is e.g. 'Item Rewards: All players'
+    // The syntax for these text strings is e.g. 'Item Rewards: All players'
     "Item Rewards:": "Phần thưởng Vật phẩm",
     "Experience Rewards:": "Phần thưởng Kinh nghiệm",
     "Trophies:": "Cúp",
@@ -5804,7 +5804,7 @@
     "All players": "Tất cả người chơi",
     "First player only": "Chỉ người chơi đầu tiên",
     "Disabled": "Đã tắt",
-    #
+    //
     
     "Advancement Completion Message Settings": "Cài đặt Thông báo Hoàn thành Tiến trình",
     "Advancement Scoreboard Display Settings": "Cài đặt Bảng Hiển thị Tiến trình",
@@ -5822,7 +5822,7 @@
     "Click to display": "Nhấp để hiển thị",
     "Click to clear": "Nhấp để xóa",
     
-    # The syntax for these text strings is e.g. 'Task Advancements: All players'
+    // The syntax for these text strings is e.g. 'Task Advancements: All players'
     "Task": "Nhiệm vụ",
     "Goal": "Mục tiêu",
     "Challenge": "Thử thách",
@@ -5830,7 +5830,7 @@
     "Milestone": "Cột mốc",
     
     "Advancements:": "Tiến trình",
-    #
+    //
     
     "Turn all messages on": "Bật tất cả thông báo",
     "Turn all messages off": "Tắt tất cả thông báo",
@@ -5844,7 +5844,7 @@
     "Go back to main config menu": "Quay lại menu cấu hình chính",
     
     
-    # Advancements added in the Terralith version for BACAP 1.13.1
+    // Advancements added in the Terralith version for BACAP 1.13.1
     "A Cliffhanger!": "Một Tập phim hay về vách đá!",
     "Discover every type of cliff biome": "Khám phá tất cả các loại quần xã vách đá",
     
@@ -5899,7 +5899,7 @@
     "The World Is Your Canvas": "Thế giới Là Bức tranh rực rỡ",
     "Discover the Painted Mountains": "Khám phá vùng Núi được sơn (Painted Mountains)",
     
-    # Adjusted descriptions
+    // Adjusted descriptions
     "Discover every vanilla surface biome in the Overworld": "Khám phá mọi quần xã bình thường trên bề mặt trong Overworld",
     "Discover every vanilla biome from every dimension": "Khám phá mọi quần xã bình thường của tất cả các chiều không gian",
     
@@ -5911,7 +5911,7 @@
     
     
     
-    # All advancements and trophies that get added in versions 1.14 or later will be added down here for easy locating by translators who wish to update their language file
+    // All advancements and trophies that get added in versions 1.14 or later will be added down here for easy locating by translators who wish to update their language file
     
 
 

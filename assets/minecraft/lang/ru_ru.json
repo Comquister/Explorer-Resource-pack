@@ -1373,22 +1373,22 @@
 
 
 
-    # BlazeandCave's Advancements Pack Language File
+    // BlazeandCave's Advancements Pack Language File
  
-    # How to use: Name and descriptions of advancement to left of : and put translation to right of :, inside the speech marks "" like this: "Advancement Description"
-    # Some advancement titles make use of puns that would work in English but probably not in other languages. Be creative if you wish if you can find any puns in foreign languages.
+    // How to use: Name and descriptions of advancement to left of : and put translation to right of :, inside the speech marks "" like this: "Advancement Description"
+    // Some advancement titles make use of puns that would work in English but probably not in other languages. Be creative if you wish if you can find any puns in foreign languages.
     
-    # This file will be updated with new advancements with each new update.
-    # Currently the text that appears with reward functions are not translatable - support for translating the reward functions messages will come in a later update.
+    // This file will be updated with new advancements with each new update.
+    // Currently the text that appears with reward functions are not translatable - support for translating the reward functions messages will come in a later update.
     
-    # Language: Russian
-    # Author: SoSeDiK (1.4-1.10), vlad8599 (1.10), KorS1z (1.11-1.12), Marsik_the_alien(1.12 - 1.13), _InGloriouS_ (1.13.7)
-    # Pack version supported: 1.13.7
+    // Language: Russian
+    // Author: SoSeDiK (1.4-1.10), vlad8599 (1.10), KorS1z (1.11-1.12), Marsik_the_alien(1.12 - 1.13), _InGloriouS_ (1.13.7)
+    // Pack version supported: 1.13.7
     
-    # All language entries are organised in alphabetical order of file name as of 1.3
-    # All new advancements added in updates later than 1.3 (1.4, 1.5 and so on) will be put at the bottom of the file for easy locating and adding by translators
+    // All language entries are organised in alphabetical order of file name as of 1.3
+    // All new advancements added in updates later than 1.3 (1.4, 1.5 and so on) will be put at the bottom of the file for easy locating and adding by translators
     
-    # Adventuring tab as of 1.3
+    // Adventuring tab as of 1.3
     
     "Adventuring Time": "Время приключений",
     "Discover every biome": "Исследуйте все доступные биомы",
@@ -1520,7 +1520,7 @@
     
     
     
-    # Building tab as of 1.3
+    // Building tab as of 1.3
     "A Masterpiece!": "Шедевр искусства",
     "Put up a painting": "Повесьте картину",
     
@@ -1658,7 +1658,7 @@
     
     
     
-    # Combat tab as of 1.3
+    // Combat tab as of 1.3
     "Blast Shield": "Надёжная защита",
     "Survive a creeper's blast with your shield": "Переживите взрыв крипера, прикрывшись щитом",
     
@@ -1793,7 +1793,7 @@
     
     
     
-    # Enchanting tab as of 1.3
+    // Enchanting tab as of 1.3
     "Armor for the masses": "Броню в массы!",
     "Obtain every protection related enchantment": "Заполучите каждое зачарование, которое касается защиты",
     
@@ -1874,7 +1874,7 @@
     
     
     
-    # End tab as of 1.3
+    // End tab as of 1.3
     "Anti-Gravity Generator": "Антигравитационный прибор",
     "Bring a shulker into the overworld and let it give you anti-gravity": "Перенесите шалкера в обычный мир и получите эффект «Левитации»",
     
@@ -1958,7 +1958,7 @@
     
     
     
-    # Farming tab as of 1.3
+    // Farming tab as of 1.3
     "24 Carrot Gold": "Золотые зубы",
     "Eat a golden carrot": "Съешьте золотую морковь",
     
@@ -2114,7 +2114,7 @@
     
     
     
-    # Mining tab as of 1.3
+    // Mining tab as of 1.3
     "Acquire Hardware": "Куй железо, пока горячо!",
     "Smelt an iron ingot": "Переплавьте в печи железную руду в железный слиток",
     
@@ -2219,7 +2219,7 @@
     
     
     
-    # Nether tab as of 1.3
+    // Nether tab as of 1.3
     "A Terrible Fortress": "Чертоги страха",
     "Break your way into a Nether Fortress": "Ворвитесь в незерскую крепость",
     
@@ -2297,7 +2297,7 @@
     
     
     
-    # Potions tab as of 1.3
+    // Potions tab as of 1.3
     "A Furious Cocktail": "Энергетический коктейль",
     "Have every potion effect applied at the same time": "Испытайте эффекты всех возможных зелий одновременно",
     
@@ -2348,7 +2348,7 @@
     
     
     
-    # Redstone tab as of 1.3
+    // Redstone tab as of 1.3
     "Bling Plate": "Сверкающая пластина",
     "Dine in style! (No, not really)": "Сверкай со стилем! (нет, на самом деле нет, вовсе нет)",
     
@@ -2408,7 +2408,7 @@
     
     
     
-    # All advancements added in version 1.4 are here
+    // All advancements added in version 1.4 are here
     
     "Beginning": "Начало",
     "A brave new world": "Совершенно новый мир",
@@ -2787,7 +2787,7 @@
     
     
     
-    # All advancements added in version 1.5 are here
+    // All advancements added in version 1.5 are here
     
     "Iconic Merchandising Prop": "Шахтёр мирового класса",
     "Create a pickaxe of the highest calibre": "Создайте кирку наивысшего разряда",
@@ -2968,7 +2968,7 @@
     
     
     
-    # All advancements added in version 1.6 are here
+    // All advancements added in version 1.6 are here
     "Beethoven": "Бетховен",
     "Craft a jukebox with planks and a diamond": "Создайте проигрыватель из досок и алмаза",
     
@@ -3374,7 +3374,7 @@
     
     
     
-    # All advancements added in version 1.7 are here
+    // All advancements added in version 1.7 are here
     "I don't like sand": "Не лучший песок в мире",
     "It's coarse, and rough, and irritating, and it gets everywhere": "Он грубый, жесткий, раздражающий… и проникает повсюду",
     
@@ -3687,7 +3687,7 @@
     
     
     
-    # All advancements added in version 1.8 are here
+    // All advancements added in version 1.8 are here
     "Ya like jazz?": "Цветочные чары",
     "Breed two bees using flowers": "Размножьте двух пчёл при помощи цветов",
     
@@ -3756,7 +3756,7 @@
     
     
     
-    # All advancements added in version 1.9 are here
+    // All advancements added in version 1.9 are here
     "BlazeandCave's Advancements" : "Достижения от BlazeandCave",
     "Loads of brand new advancements for your Minecraft world!" : "Много новых достижений для Вашего мира Minecraft!",
     
@@ -3811,7 +3811,7 @@
     
     
     
-    # Name and description changes in version 1.9
+    // Name and description changes in version 1.9
     "I am Ravager, hear me ROAR!" : "Я – Разоритель, услышь моё РЫЧАНИЕ!",
     
     "Dragon vs Dragon II" : "Дракон на Дракона II",
@@ -3837,7 +3837,7 @@
     
     
     
-    # All advancements added in version 1.10 are here
+    // All advancements added in version 1.10 are here
     "Dungeons and Spawners" : "Данжи и спавнеры",
     "Open a chest in a dungeon deep underground" : "Откройте сундук в сокровищнице глубоко под поверхностью",
     
@@ -4235,7 +4235,7 @@
     "Collect 64 nether stars" : "Соберите стак звёзд Незера",
     
     "Hearts of the Stack" : "Сердечный стак",
-    "Collect 64 Hearts of the Sea" : "	Соберите стак сердец моря",
+    "Collect 64 Hearts of the Sea" : "  Соберите стак сердец моря",
     
     "The Devil's Distance" : "Расстояние дьявола",
     "Use the Nether to travel 666km in the Overworld" : "Используйте Незер, чтобы переместиться на 666км в обычном мире",
@@ -4248,7 +4248,7 @@
     
     
     
-    # Name and description changes in version 1.10
+    // Name and description changes in version 1.10
     "Knowledge is Power" : "Знание — сила",
     
     "Obtain all the special banner patterns" : "Заполучите все особые узоры флагов",
@@ -4287,7 +4287,7 @@
     
     
     
-    # Hardcore-Friendly Version description changes
+    // Hardcore-Friendly Version description changes
     "Get attacked by a natural iron golem defending its village" : "Подвергнитесь нападению естественно-сгенерировавшегося железного голема, защищающего свою деревню",
     
     "Get attacked by dolphins" : "Подвергнуться нападению дельфинов",
@@ -4301,7 +4301,7 @@
     "Get attacked by Piglin Brutes" : "Подвергнуться нападению брутального пиглина",
     
     
-    # All advancements added in version 1.11 are here
+    // All advancements added in version 1.11 are here
     "Time to Dig!" : "Время копать!",
     "Use planks and sticks to make a shovel" : "Используйте доски и палки, чтобы сделать лопату",
     
@@ -4386,7 +4386,7 @@
     "Mine a stack of Netherrack, Basalt, Blackstone and Glowstone in the Nether" : "Добудьте стак незерека, базальта, тёмного и светлого камня в Незере",
     
     
-    # Name and description changes in version 1.11
+    // Name and description changes in version 1.11
     "Attach a lead to a llama to form a llama caravan" : "Привяжите поводок к ламе, чтобы сформировать караван лам",
     
     "Use Shears to obtain wool from a sheep" : "Используйте ножницы, чтобы получить шерсть с овцы",
@@ -4396,7 +4396,7 @@
     "Diemonds!" : "Смертельные алмазы",
     
     
-    # Trophies added in version 1.11
+    // Trophies added in version 1.11
     "Awarded for achieving" : "Награждение за достижение",
     
     
@@ -4846,7 +4846,7 @@
     
     
     
-    # Renamed advancements and description changes in 1.11.2
+    // Renamed advancements and description changes in 1.11.2
     "Craft or collect all forms of normal, cracked, mossy and chiseled stone bricks" : "Создайте или собирите все формы обычных, потрескавшихся, замшелых и резных каменных кирпичей.",
     
     "Swim in water while having the Water Breathing effect" : "Поплавайте в воде с эффектом «Подводное дыхание».",
@@ -4862,7 +4862,7 @@
     
     
     
-    ## All advancements added in version 1.12 are here
+    //// All advancements added in version 1.12 are here
     "Coppers and Robbers": "Копы и грабители",
     "Smelt a Copper Ingot": "Выплавите медный слиток",
     
@@ -4962,7 +4962,7 @@
     "The Ritual Begins": "Ритуал начинается",
     "Get one stack of Black Candles": "Получите один стак чёрных свечей",
     
-    # Happy Birthday!
+    // Happy Birthday!
     "Place a candle on a cake": "Поставьте свечу на торт",
     
     "Pane in the Glass": "Стекло в стекле",
@@ -5155,7 +5155,7 @@
     
     
     
-    # The Haggler
+    // The Haggler
     "Trade with villagers 100 times": "Поторгавать с жителями 100 раз",
     
     "Big Spender": "Транжира",
@@ -5224,7 +5224,7 @@
     
     
     
-    # Renamed advancements and description changes in 1.12
+    // Renamed advancements and description changes in 1.12
     "Professional": "Профессионал",
     
     "Hot Reels!": "Горячие барабаны!",
@@ -5249,7 +5249,7 @@
     
     
     
-    # Hardcore-Friendly Version for 1.12 description changes
+    // Hardcore-Friendly Version for 1.12 description changes
     "Get stung by a bee": "Дайте себя ужалить пчеле",
     
     "Get rammed into by a Goat.": "Дать козе возможность протаранить Вас.",
@@ -5259,7 +5259,7 @@
     
     
     
-    # Trophies added in 1.12
+    // Trophies added in 1.12
     "Octuple Compressed Cobblestone": "Сжатый восьмеричный булыжник",
     "Just imagine how much cobblestone it contains…": "Только представьте, сколько в нем булыжника…",
     
@@ -5374,13 +5374,13 @@
     
     
     
-    # 'Experience' label in Experience Rewards text
+    // 'Experience' label in Experience Rewards text
     "Experience" : "Опыт",
     
     
     
     
-    # Text that appears when unlocking a new tab
+    // Text that appears when unlocking a new tab
     "You have unlocked the root of the Adventure tab": "Вы разблокировали вкладку «Приключения»",
     
     "You have unlocked the root of the Animals tab": "Вы разблокировали вкладку «Животные»",
@@ -5415,7 +5415,7 @@
     
     
     
-    # Welcome message
+    // Welcome message
     "This world is using ": "Этот мир использует",
     "Blaze": "Blaze",
     "and": "and",
@@ -5423,11 +5423,11 @@
     "'s Advancements Pack!": "'s Advancements Pack!",
     
     " Over ": " Добавляющий ",
-    ## Number is inserted here
+    //// Number is inserted here
     "975 brand new advancements in your Minecraft world!": "975 новых достижений в ваш мир Minecraft!",
     
     " - Created by ": " - Создал ",
-    ## Cavinator1
+    //// Cavinator1
     
     " - For information ": " - Для информации ",
     "click here": "нажмите сюда",
@@ -5436,13 +5436,13 @@
     "here": "здесь",
     
     "Special thanks to my patreon donors: ": "Особая благодарность моим Patreon-донатерам:",
-    ## Patreon Donors' names are listed here
+    //// Patreon Donors' names are listed here
     
     
     
     
-    # Configuration Menu
-    ## BlazeandCave
+    // Configuration Menu
+    //// BlazeandCave
     "'s Advancements Pack Config": "'s Advancements Pack Настройки",
     
     "Welcome Message currently enabled": "Приветственное сообщение в данный момент включено",
@@ -5471,10 +5471,10 @@
     "Click to disable": "Нажмите, чтобы выключить",
     "Click to run": "Нажмите, чтобы запустить",
     
-    # Update scoreboard message
+    // Update scoreboard message
     "The advancement count of all players currently online has been updated.": "Обновлен счетчик достижений всех онлайн игроков.",
     
-    # Grant trophies are you sure message
+    // Grant trophies are you sure message
     "Are you sure?": "Уверены ли вы?",
     "This function should only be used in worlds that used the Advancements Pack before updating to the Trophy Update.": "Эту функцию следует использовать только в мирах, в которых использовался датапак перед обновлением к обновлению трофеев.",
     "This function may also grossly fill inventories so make sure everyone is prepared to receive them!": "Эта функция может забить инвентарь, поэтому убедитесь, что все готовы их получить!",
@@ -5485,7 +5485,7 @@
     "[ No ]": "[ Нет ]",
     "Click to go back": "Нажмите, чтобы вернуться",
     
-    # Grant trophies confirmation message
+    // Grant trophies confirmation message
     "All players have been granted trophies.": "Всем игрокам вручены трофеи.",
     "Players that have been granted trophies by this function in the past did not receive any now. To manually re-enable trophy granting for them use the command:": "Игроки, получившие трофеи с помощью этой функции в прошлом, снова их получить не смогут. Чтобы вручную повторно включить выдачу трофеев для них, используйте команду:",
     "Click to insert command into chat": "Нажмите, чтобы вставить команду в чат",
@@ -5493,7 +5493,7 @@
     
     
     
-    # All advancements added in version 1.13 are here
+    // All advancements added in version 1.13 are here
     
     "Dripstone Drop": "Мягкие наконечники (ну почти)",
     "Survive a fall of at least 10 blocks onto some Pointed Dripstone": "Выжить при падении, как минимум 10 блоков на какой-нибудь заостренный капельник",
@@ -5601,7 +5601,7 @@
     "The ninth is to be a pirate; parrot, spyglass, map, and boat": "Девятое - быть пиратом; попугай, подзорная труба, карта и лодка",
     "The tenth, if you can achieve it, you will be the G.O.A.T.": "Десятое, если вы сможете его достичь, вы станете мудрейшим игроком",
     
-    # Riddle Me This messages and hints
+    // Riddle Me This messages and hints
     
     "First line complete…": "Вы выполнили первое задание ...",
     "Second line complete…": "Вы выполнили второе задание ...",
@@ -5619,7 +5619,7 @@
     "Like how this is the thousandth advancement added to the pack": "и тысячное достижение добавленное в этот датапак",
     
     
-    # Renamed advancements and description changes in 1.13
+    // Renamed advancements and description changes in 1.13
     
     "All Aboard!": "Начинаем посадку!",
     "Craft and board a Minecart for railway journeys": "Создайте и сядьте на вагонетку для путешествий по железной дороге",
@@ -5644,66 +5644,66 @@
     "How Did We Get Here?": "Невозможное возможно!",
     
     
-    # Description changes
+    // Description changes
     
-    ## Adventuring Time
+    //// Adventuring Time
     "Discover every surface biome in the Overworld": "Исследуйте каждый биом на поверхности",
     
-    ## Explorer of Worlds
+    //// Explorer of Worlds
     "Discover every biome in every dimension": "Исследуйте каждый биом в каждом измерении",
     
-    ## Trampoline
+    //// Trampoline
     "Bounce onto a slime block from at least 30 blocks high": "Прыгните на блок слизи с высоты не менее 30 блоков",
     
-    ## Cool Kids
+    //// Cool Kids
     "Craft and wear a leather jacket": "Сделайте и надеть кожаную куртку",
     
-    ## Fashion Statement
+    //// Fashion Statement
     "Dye some leather pants with one color, then put them on": "Покрасьте кожаные штаны и наденьте их",
     
-    ## Fuel Engine
+    //// Fuel Engine
     "Craft a Minecart with Furnace and use coal or charcoal to send it chugging": "Создайте вагонетку с печью и используйте уголь или древесный уголь, чтобы заставить её пыхтеть",
     
-    ## Troll Chest
+    //// Troll Chest
     "Trigger a trapped chest. Good for trolling your friends!": "Активируйте сундук-ловушку. Неплохо для троллинга друзей!",
     
-    ## Tripping Over
+    //// Tripping Over
     "Place a line of string between two tripwire hooks, and trigger it": "Проведите нитку между двумя крючками и нажмите на нее",
     
-    ## Under Pressure
+    //// Under Pressure
     "Step on a pressure plate": "Станьте на нажимную плиту",
     
-    ## Let It Go!
+    //// Let It Go!
     "Using Frost Walker boots, walk on frozen water over a deep ocean": "Прогуляйтесь в ботинках с зачарованием «Ледоход» над глубоким океаном",
     
-    ## Do A Barrel Roll!
+    //// Do A Barrel Roll!
     "Use Riptide to give yourself a boost": "Используйте «Тягун», чтобы ускориться",
     
-    ## Kilometre Walk
+    //// Kilometre Walk
     "Travel at least 1000 blocks from the centre of the world in any direction.": "Путешествуйте, как минимум на 1000 блоков от центра мира в любом направлении",
     
-    ## Ten Thousand Blocks
+    //// Ten Thousand Blocks
     "Travel at least 10,000 blocks from the centre of the world in any direction.": "Путешествуйте, как минимум на 10000 блоков от центра мира в любом направлении",
     
-    ## Olympic Gold Medallist
+    //// Olympic Gold Medallist
     "Swim 50km": "Проплывите 50 км",
     
-    ## Global Railway Network
+    //// Global Railway Network
     "Ride 50km in a minecart": "Проедьте 50 км на вагонетке",
     
-    ## Who needs cars?
+    //// Who needs cars?
     "Walk 50km": "Пройдите 50 км",
     
-    ## I enjoy long walks and playing MC
+    //// I enjoy long walks and playing MC
     "Walk 250km": "Пройдите 250 км",
     
-    ## Time to Chop!
+    //// Time to Chop!
     "Use planks and sticks to make an axe": "Используйте доски и палки, чтобы сделать топор",
     
     
-    # Custom Advancement Completion messages
+    // Custom Advancement Completion messages
     
-    # # Has the syntax <Player> has made the advancement <Advancement's name>
+    // // Has the syntax <Player> has made the advancement <Advancement's name>
     
     "has made the advancement": "получил достижение",
     "has reached the goal": "выполнил цель",
@@ -5711,22 +5711,22 @@
     "has completed the super challenge": "выполнил сверх вызов",
     "has found the hidden advancement": "получил скрытое достижение",
     
-    # # For milestones, it goes <Player> has completed every advancement in the <Tab name> tab, earning them the advancement <Milestone's name>
+    // // For milestones, it goes <Player> has completed every advancement in the <Tab name> tab, earning them the advancement <Milestone's name>
     
     "has completed every advancement in the": "завершил все достижения в",
     "tab, earning them the advancement": ", зарабатывая достижения",
     
-    # # Note: Because The End already has a 'the' in it, this line is exclusively used in 'End Milestone'
+    // // Note: Because The End already has a 'the' in it, this line is exclusively used in 'End Milestone'
     
     "has completed every advancement in": "завершил каждое продвижение в",
     
-    # # Advancement Legend
+    // // Advancement Legend
     
     "has completed every advancement in BlazeandCave's Advancements Pack, earning them the coveted title of": "завершил(ла) все улучшения в BlazeandCave's Advancements Pack, что принесло ему(ей) желанный титул",
     
     
     
-    # Trophies added in 1.13
+    // Trophies added in 1.13
     
     "Azalea Parachute": "Парашют «Азалия»",
     "Good thing you didn't need this": "Хорошо, что тебе это не понадобилось",
@@ -5739,7 +5739,7 @@
     
     "Flex Tape": "Flex Tape",
     "To show the power of Flex Tape, you sawed all the blocks in half!": "Чтобы продемонстрировать силу «Flex Tape», вы распилили все блоки пополам!",
-    "#NotSponsored": "#НЕПРОПЛАЧЕНО",
+    "//NotSponsored": "//НЕПРОПЛАЧЕНО",
     
     "Stairway to Heaven": "Stairway to Heaven",
     "Whatever you do, don't listen to it backwards!": "Что бы вы ни делали, не слушайте это задом наперед!",
@@ -5779,12 +5779,12 @@
     "Golden Advancement Plaque": "Золотая мемориальная доска",
     "Awarded to this datapack for reaching 1000 advancements": "Выдается этому пакету данных за достижения 1000 достижений",
     
-    # # The Toilet trophy for 'WHERE'S THE HONEY LEBOWSKI' received a description change
+    // // The Toilet trophy for 'WHERE'S THE HONEY LEBOWSKI' received a description change
     
     "WHERE'S THE HONEY?!!!": "ГДЕ МЁД?!!!",
     
     
-    # Configuration menu additions in 1.13
+    // Configuration menu additions in 1.13
     
     "Cooperative Mode currently enabled": "Кооперативный режим включён",
     "Cooperative Mode currently disabled": "Кооперативный режим отключён",
@@ -5799,7 +5799,7 @@
     "Click to enable only for the first player to get an advancement": "Нажмите, чтобы включить только для первого игрока, который получит достижение",
     "Click to disable for all players": "Нажмите, чтобы отключить для всех игроков",
     
-    # The syntax for these text strings is e.g. 'Item Rewards All players'
+    // The syntax for these text strings is e.g. 'Item Rewards All players'
     
     "Item Rewards:": "Предметы",
     "Experience Rewards:": "Очки опыта",
@@ -5826,7 +5826,7 @@
     "Click to display": "Нажмите, чтобы отобразить",
     "Click to clear": "Нажмите, чтобы очистить",
     
-    # The syntax for these text strings is e.g. 'Task Advancements All players'
+    // The syntax for these text strings is e.g. 'Task Advancements All players'
     
     "Task": "Задача",
     "Goal": "Цель",
@@ -5847,7 +5847,7 @@
     
     "Go back to main config menu": "Вернуться в главное меню конфигурации",
     
-    # Advancements added in the Terralith version for BACAP 1.13.1
+    // Advancements added in the Terralith version for BACAP 1.13.1
     "A Cliffhanger!": "Клиффхэнгер!",
     "Discover every type of cliff biome": "Исследуйте каждый вид горных биомов",
     
@@ -5902,7 +5902,7 @@
     "The World Is Your Canvas": "Мир — это твой холст",
     "Discover the Painted Mountains": "Исследуйте окрашенные горы",
     
-    # Adjusted descriptions
+    // Adjusted descriptions
     "Discover every vanilla surface biome in the Overworld": "Исследуйте каждый ванильный биом в обычном мире.",
     "Discover every vanilla biome from every dimension": "Исследуйте каждый ванильный биом из каждого измерения",
     
@@ -5913,7 +5913,7 @@
     
     
     
-    # Configuration menu additions in 1.13.3-1.13.6
+    // Configuration menu additions in 1.13.3-1.13.6
     "First player on each team": "Первый игрок в команде",
     "Click to enable for the first player on each team": "Нажмите, чтобы включить для игроков, которые первыми получили достижение в команде",
     
@@ -5971,7 +5971,7 @@
     "Technical Settings": "Технические настройки",
     "Warning: Some of these settings may cause adverse effects on your progress, and will cause a lag-spike upon being used. Only use if you absolutely know what they do! Use with caution!": "Предупреждение: некоторые из следующих настроек могут повредить Ваш игровой прогресс, и вызовут лаги в процессе настройки. Используйте с осторожностью!",
     
-    # Update Scoreboard
+    // Update Scoreboard
     "Goes through every advancement for every player online, and recounts how many advancements they have": "Перерасчитывает количество достижений для всех игроков в сети.",
     "Should be used if:": "Стоит использовать, если",
     "- You have recently updated to a new datapack version, especially across a new Minecraft update": "1) ...Вы недавно обновили датапак до новой версии, особенно если это сопровождается обновлением Майнкрафта.",
@@ -6010,7 +6010,7 @@
     
     
     
-    # Advancements added in the Terralith version for BACAP 1.13.5
+    // Advancements added in the Terralith version for BACAP 1.13.5
     "A Journey Begins": "Одиссея",
     "Find a Traveller’s Map": "Найдите карту путешественника",
     
@@ -6035,7 +6035,7 @@
     
     
     
-    ## All advancements added in version 1.14 are here
+    //// All advancements added in version 1.14 are here
     "Sneak 100": "Пронести 100",
     "Sneak near something in the Deep Dark to prevent being heard": "Прокрадитесь рядом с чем-нибудь в кромешной тьме, чтобы не быть услышанным",
     
@@ -6188,35 +6188,35 @@
     "Travel all the way to the border of the world": "Пропутешествуйте до самой границы мира",
     
     
-    # Description changes in 1.14
+    // Description changes in 1.14
     
-    # Vibe Check
+    // Vibe Check
     "Use Silk Touch to pick up a Sculk Sensor or find one among Ancient City treasure": "Используйте Шелковое касание, чтобы собрать Скалк Сенсор или найти его среди сокровищ Древнего города",
     
-    # Spelunker
+    // Spelunker
     "Discover every cave biome": "Откройте для себя каждый пещерный биом",
     
-    # Yay! I got my wood!
+    // Yay! I got my wood!
     "Collect every type of log": "Собирите все виды брёвен",
     
-    # Stripper
+    // Stripper
     "Strip the bark off every type of log": "Снимите кору с каждого вида бревен",
     
-    # Ecologist
+    // Ecologist
     "Plant down all types of saplings": "Посадите саженцы всех типов",
     
-    # The Mighty Hunter
+    // The Mighty Hunter
     "Hunt all types of land animals with your bow": "Убейте с лука на представителей всех видов наземных животных",
     
-    # Adventuring Time
+    // Adventuring Time
     "Discover each type of surface biome in the Overworld": "Откройте для себя каждый тип биома в обычном мире",
     
     
-    # The word 'tab' as it appears when mousing over an Advancement in chat
+    // The word 'tab' as it appears when mousing over an Advancement in chat
     "tab": "вкладка",
     
     
-    # Trophies added in 1.14
+    // Trophies added in 1.14
     "Mobbo": "Моббо",
     "They are your bestest friend!": "Они ваши лучшие друзья!",
     
@@ -6276,7 +6276,7 @@
     
     
     
-    # All advancements and trophies that get added in versions 1.15 or later will be added down here for easy locating by translators who wish to update their language file
+    // All advancements and trophies that get added in versions 1.15 or later will be added down here for easy locating by translators who wish to update their language file
     
 
 

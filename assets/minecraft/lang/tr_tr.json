@@ -1390,22 +1390,22 @@
 
 
 
-    # BlazeandCave's Advancements Pack Language File
+    // BlazeandCave's Advancements Pack Language File
  
-    # How to use: Name and descriptions of advancement to left of : and put translation to right of :, inside the speech marks "" like this: "Advancement Description"
-    # Some advancement titles make use of puns that would work in English but probably not in other languages. Be creative if you wish if you can find any puns in foreign languages.
+    // How to use: Name and descriptions of advancement to left of : and put translation to right of :, inside the speech marks "" like this: "Advancement Description"
+    // Some advancement titles make use of puns that would work in English but probably not in other languages. Be creative if you wish if you can find any puns in foreign languages.
     
-    # This file will be updated with new advancements with each new update.
-    # Currently the text that appears with reward functions are not translatable - support for translating the reward functions messages will come in a later update.
+    // This file will be updated with new advancements with each new update.
+    // Currently the text that appears with reward functions are not translatable - support for translating the reward functions messages will come in a later update.
     
-    # Language: Turkish / Türkçe (Türkiye)
-    # Author: 0yiqitozturk / Yiğit Efe Öztürk
-    # Pack version supported: 1.11.5
+    // Language: Turkish / Türkçe (Türkiye)
+    // Author: 0yiqitozturk / Yiğit Efe Öztürk
+    // Pack version supported: 1.11.5
     
-    # All language entries are organised in alphabetical order of file name as of 1.3
-    # All new advancements added in updates later than 1.3 (1.4, 1.5 and so on) will be put at the bottom of the file for easy locating and adding by translators
+    // All language entries are organised in alphabetical order of file name as of 1.3
+    // All new advancements added in updates later than 1.3 (1.4, 1.5 and so on) will be put at the bottom of the file for easy locating and adding by translators
     
-    # Adventuring tab as of 1.3
+    // Adventuring tab as of 1.3
     
     "Adventuring Time": "Macera Zamanı!",
     "Discover every biome": "Tüm biyomları keşfet",
@@ -1537,7 +1537,7 @@
     
     
     
-    # Building tab as of 1.3
+    // Building tab as of 1.3
     "A Masterpiece!": "Sanat Eseri",
     "Put up a painting": "Bir tablo koy",
     
@@ -1675,7 +1675,7 @@
     
     
     
-    # Combat tab as of 1.3
+    // Combat tab as of 1.3
     "Blast Shield": "Patlama Koruması",
     "Survive a creeper's blast with your shield": "Kalkanınla creeper patlamasından sağ çık",
     
@@ -1810,7 +1810,7 @@
     
     
     
-    # Enchanting tab as of 1.3
+    // Enchanting tab as of 1.3
     "Armor for the masses": "Korunmak için kuşan",
     "Obtain every protection related enchantment": "Koruma ile ilgili her büyüyü elde et",
     
@@ -1891,7 +1891,7 @@
     
     
     
-    # End tab as of 1.3
+    // End tab as of 1.3
     "Anti-Gravity Generator": "Yerçekimini Yok Et",
     "Bring a shulker into the overworld and let it give you anti-gravity": "Dünya'ya bir shulker getir ve seni uçurmasına izin ver",
     
@@ -1975,7 +1975,7 @@
     
     
     
-    # Farming tab as of 1.3
+    // Farming tab as of 1.3
     "24 Carrot Gold": "24 Karat Havuç",
     "Eat a golden carrot": "Altın Havuç ye",
     
@@ -2131,7 +2131,7 @@
     
     
     
-    # Mining tab as of 1.3
+    // Mining tab as of 1.3
     "Acquire Hardware": "Donanım Edin",
     "Smelt an iron ingot": "Demir külçesi elde et",
     
@@ -2236,7 +2236,7 @@
     
     
     
-    # Nether tab as of 1.3
+    // Nether tab as of 1.3
     "A Terrible Fortress": "Berbat Bir Kale",
     "Break your way into a Nether Fortress": "Nether Kalesine doğru yola koyulalım",
     
@@ -2314,7 +2314,7 @@
     
     
     
-    # Potions tab as of 1.3
+    // Potions tab as of 1.3
     "A Furious Cocktail": "Öfkeli Kokteyl",
     "Have every potion effect applied at the same time": "Tüm iksir etkilerini aynı anda elde et",
     
@@ -2365,7 +2365,7 @@
     
     
     
-    # Redstone tab as of 1.3
+    // Redstone tab as of 1.3
     "Bling Plate": "Parlak Plaka",
     "Dine in style! (No, not really)": "Parlak bir seçim..",
     
@@ -2425,7 +2425,7 @@
     
     
     
-    # All advancements added in version 1.4 are here
+    // All advancements added in version 1.4 are here
     
     "Beginning": "Başlangıç",
     "A brave new world": "Cesur yeni bir dünya",
@@ -2804,7 +2804,7 @@
     
     
     
-    # All advancements added in version 1.5 are here
+    // All advancements added in version 1.5 are here
     
     "Iconic Merchandising Prop": "İkonik Mağazacılık",
     "Create a pickaxe of the highest calibre": "En üst kalite bir kazma üret",
@@ -2985,7 +2985,7 @@
     
     
     
-    # All advancements added in version 1.6 are here
+    // All advancements added in version 1.6 are here
     "Beethoven": "Tanju Okan",
     "Craft a jukebox with planks and a diamond": "Elmas ve tahta kullanarak müzik kutusu yap",
     
@@ -3391,7 +3391,7 @@
     
     
     
-    # All advancements added in version 1.7 are here
+    // All advancements added in version 1.7 are here
     "I don't like sand": "Kumu sevmem",
     "It's coarse, and rough, and irritating, and it gets everywhere": "Kaba, sert ve rahatsız edici ve her yere akıyor",
     
@@ -3704,7 +3704,7 @@
     
     
     
-    # All advancements added in version 1.8 are here
+    // All advancements added in version 1.8 are here
     "Ya like jazz?": "Jazz sever misin?",
     "Breed two bees using flowers": "Çiçek kullanarak iki arıyı çiftleştir",
     
@@ -3773,7 +3773,7 @@
     
     
     
-    # All advancements added in version 1.9 are here
+    // All advancements added in version 1.9 are here
     "BlazeandCave's Advancements" : "BlazeandCave'in Başarımları",
     "Loads of brand new advancements for your Minecraft world!" : "Minecraft dünyanız için bir sürü yepyeni başarım!",
     
@@ -3828,7 +3828,7 @@
     
     
     
-    # Name and description changes in version 1.9
+    // Name and description changes in version 1.9
     "I am Ravager, hear me ROAR!" : "Engellenen Darbe",
     
     "Dragon vs Dragon II" : "Ejderha vs Ejderha II",
@@ -3854,7 +3854,7 @@
     
     
     
-    # All advancements added in version 1.10 are here
+    // All advancements added in version 1.10 are here
     "Dungeons and Spawners" : "Zindanlar ve Çağırıcılar",
     "Open a chest in a dungeon deep underground" : "Yerin altındaki bir zindanda bir sandık aç",
     
@@ -4265,7 +4265,7 @@
     
     
     
-    # Name and description changes in version 1.10
+    // Name and description changes in version 1.10
     "Knowledge is Power" : "Bilgi Güçtür",
     
     "Obtain all the special banner patterns" : "Tüm özel flama modellerini edin",
@@ -4304,7 +4304,7 @@
     
     
     
-    # Hardcore-Friendly Version description changes
+    // Hardcore-Friendly Version description changes
     "Get attacked by a natural iron golem defending its village" : "Köyünü savunan bir demir golem tarafından saldırıya uğrayın",
      
     "Get attacked by dolphins" : "Yunuslar tarafından saldırıya uğra",
@@ -4318,7 +4318,7 @@
     "Get attacked by Piglin Brutes" : "Bir Zalim Piglin tarafından saldırıya uğra",
     
     
-    # All advancements added in version 1.11 are here
+    // All advancements added in version 1.11 are here
     "Time to Dig!" : "Küreği tuttun!",
     "Use planks and sticks to make a shovel" : "Tahtaları ve sopaları kullanarak bir kürek yap",
     
@@ -4403,7 +4403,7 @@
     "Mine a stack of Netherrack, Basalt, Blackstone and Glowstone in the Nether" : "Nether'da bir stek Nether Taşı, Bazalt, Kara Taş ve Işık Taşı kazın",
     
     
-    # Name and description changes in version 1.11
+    // Name and description changes in version 1.11
     "Attach a lead to a llama to form a llama caravan" : "Bir lama sürüsü oluşturmak için lamalara kayış bağla",
     
     "Use Shears to obtain wool from a sheep" : "Koyundan yün elde etmek için makas kullan",
@@ -4413,7 +4413,7 @@
     "Diemonds!" : "Elmaslar!",
     
     
-    # Trophies added in version 1.11
+    // Trophies added in version 1.11
     "Awarded for achieving" : "Bunu başardığın için ödüllendirildin:",
     
     
@@ -4863,7 +4863,7 @@
     
     
     
-    # Renamed advancements and description changes in 1.11.2
+    // Renamed advancements and description changes in 1.11.2
     "Craft or collect all forms of normal, cracked, mossy and chiseled stone bricks" : "Taş tuğla türlerinin hepsini topla ya da yap",
     
     "Swim in water while having the Water Breathing effect" : "Suda Nefes Alma etkisine sahipken suda yüz",
@@ -4879,7 +4879,7 @@
     
     
     
-    # All advancements and trophies that get added in versions 1.12 or later will be added down here for easy locating by translators who wish to update their language file
+    // All advancements and trophies that get added in versions 1.12 or later will be added down here for easy locating by translators who wish to update their language file
     
 
 

@@ -2,6 +2,8 @@
   "language.name": "WeNAN",
   "language.region": "US",
   "language.code": "en_us",
+// tests
+  "isxander-main-menu-credits.antighost": "Explorer Network",
 
 // title
   "title.singleplayer": "Singleplayer",

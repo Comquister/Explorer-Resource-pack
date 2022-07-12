@@ -1365,24 +1365,24 @@
     "color.minecraft.white":		"§f\uDB80\uDDFA§rblanca",
     "color.minecraft.yellow":		"§f\uDB80\uDDFB§ramarilla",
 
-    # BlazeandCave's Advancements Pack Language File
+    // BlazeandCave's Advancements Pack Language File
  
-    # How to use: Name and descriptions of advancement to left of : and put translation to right of :, inside the speech marks "" like this: "Advancement Description"
-    # Some advancement titles make use of puns that would work in English but probably not in other languages. Be creative if you wish if you can find any puns in foreign languages.
+    // How to use: Name and descriptions of advancement to left of : and put translation to right of :, inside the speech marks "" like this: "Advancement Description"
+    // Some advancement titles make use of puns that would work in English but probably not in other languages. Be creative if you wish if you can find any puns in foreign languages.
     
-    # This file will be updated with new advancements with each new update.
-    # Currently the text that appears with reward functions are not translatable - support for translating the reward functions messages will come in a later update.
+    // This file will be updated with new advancements with each new update.
+    // Currently the text that appears with reward functions are not translatable - support for translating the reward functions messages will come in a later update.
     
-    # Language: Mexican Spanish
-    # Author: Parritoso (1.3), Mr_Tcraft & EsFredderick
-    # Pack version supported: 1.13
+    // Language: Mexican Spanish
+    // Author: Parritoso (1.3), Mr_Tcraft & EsFredderick
+    // Pack version supported: 1.13
     
-    # All language entries are organized in alphabetical order of file name as of 1.3
-    # All new advancements added in updates later than 1.3 (1.4, 1.5 and so on) will be put at the bottom of the file for easy locating and adding by translators
+    // All language entries are organized in alphabetical order of file name as of 1.3
+    // All new advancements added in updates later than 1.3 (1.4, 1.5 and so on) will be put at the bottom of the file for easy locating and adding by translators
     
     
     
-    # Adventuring tab as of 1.3
+    // Adventuring tab as of 1.3
     
     "Adventuring Time": "Hora de aventura",
     "Discover every biome": "Descubre un bioma común de cada tipo",
@@ -1512,7 +1512,7 @@
     
     
     
-    # Building tab as of 1.3
+    // Building tab as of 1.3
     
     "A Masterpiece!": "¡Una obra maestra!",
     "Put up a painting": "Fabrica o consigue un cuadro",
@@ -1651,7 +1651,7 @@
     
     
     
-    # Combat tab as of 1.3
+    // Combat tab as of 1.3
     
     "Blast Shield": "Escudo contra explosiones",
     "Survive a creeper's blast with your shield": "Protégete de una explosión de creeper con un escudo",
@@ -1787,7 +1787,7 @@
     
     
     
-    # Enchanting tab as of 1.3
+    // Enchanting tab as of 1.3
     
     "Armor for the masses": "Armadura para las masas",
     "Obtain every protection related enchantment": "Consigue un encantamiento relacionado a la protección de cada tipo",
@@ -1869,7 +1869,7 @@
     
     
     
-    # End tab as of 1.3
+    // End tab as of 1.3
     
     "Anti-Gravity Generator": "Generador antigravitatorio",
     "Bring a shulker into the overworld and let it give you anti-gravity": "Sé atacado por un shulker en la superficie",
@@ -1954,7 +1954,7 @@
     
     
     
-    # Farming tab as of 1.3
+    // Farming tab as of 1.3
     
     "24 Carrot Gold": "Bañada en oro",
     "Eat a golden carrot": "Come una zanahoria de oro",
@@ -2111,7 +2111,7 @@
     
     
     
-    # Mining tab as of 1.3
+    // Mining tab as of 1.3
     
     "Acquire Hardware": "La Edad de Hierro",
     "Smelt an iron ingot": "Consigue un lingote de hierro",
@@ -2217,7 +2217,7 @@
     
     
     
-    # Nether tab as of 1.3
+    // Nether tab as of 1.3
     
     "A Terrible Fortress": "Una terrible fortaleza",
     "Break your way into a Nether Fortress": "Adéntrate en una fortaleza del Nether",
@@ -2296,7 +2296,7 @@
     
     
     
-    # Potions tab as of 1.3
+    // Potions tab as of 1.3
     
     "A Furious Cocktail": "Mezcla explosiva",
     "Have every potion effect applied at the same time": "Ten todos los efectos de poción a la vez",
@@ -2348,7 +2348,7 @@
     
     
     
-    # Redstone tab as of 1.3
+    // Redstone tab as of 1.3
     
     "Bling Plate": "Placa de lujo",
     "Dine in style! (No, not really)": "Fabrica o consigue una placa de presión para peso liviano",
@@ -2410,7 +2410,7 @@
     
     
     
-    # All advancements added in version 1.4 are here
+    // All advancements added in version 1.4 are here
     
     "Beginning": "Donde todo comienza",
     "A brave new world": "Un magnífico mundo nuevo",
@@ -2781,7 +2781,7 @@
     
     
     
-    # All advancements added in version 1.5 are here
+    // All advancements added in version 1.5 are here
     
     "Iconic Merchandising Prop": "Mercancía simbólica",
     "Create a pickaxe of the highest calibre": "Fabrica o consigue un pico de diamante",
@@ -2953,7 +2953,7 @@
     
     
     
-    # All advancements added in version 1.6 are here
+    // All advancements added in version 1.6 are here
     
     "Beethoven": "Ludwig van Beethoven",
     "Craft a jukebox with planks and a diamond": "Fabrica o consigue un tocadiscos. Intenta usar bloques de madera de cualquier tipo y un diamante",
@@ -3351,7 +3351,7 @@
     
     
     
-    # All advancements added in version 1.7 are here
+    // All advancements added in version 1.7 are here
     
     "I don't like sand": "La arena es suavecita",
     "It's coarse, and rough, and irritating, and it gets everywhere": "Consigue un bloque de arena. Es infértil, áspera, irritante y está por todas partes",
@@ -3652,7 +3652,7 @@
     
     
     
-    # All advancements added in version 1.8 are here
+    // All advancements added in version 1.8 are here
     
     "Ya like jazz?": "¿Te gusta el yaz?",
     "Breed two bees using flowers": "Cría a una abeja. Intenta usar flores de cualquier tipo",
@@ -3719,7 +3719,7 @@
     
     
     
-    # All advancements added in version 1.9 are here
+    // All advancements added in version 1.9 are here
     
     "BlazeandCave's Advancements": "Progresos de Blaze y Cave",
     "Loads of brand new advancements for your Minecraft world!": "¡Montones de nuevos y mejorados progresos te aguardan!",
@@ -3774,7 +3774,7 @@
     
     
     
-    # Name and description changes in version 1.9
+    // Name and description changes in version 1.9
     
     "I am Ravager, hear me ROAR!": "Escucha el rugir en tus oídos",
     
@@ -3802,7 +3802,7 @@
     
     
     
-    # All advancements added in version 1.10 are here
+    // All advancements added in version 1.10 are here
     
     "Dungeons and Spawners": "Mazmorras generadas",
     "Open a chest in a dungeon deep underground": "Saquea un cofre de una mazmorra subterránea",
@@ -4200,7 +4200,7 @@
     
     
     
-    # Name and description changes in version 1.10
+    // Name and description changes in version 1.10
     
     "Knowledge is Power": "El conocimiento es poder",
     
@@ -4240,7 +4240,7 @@
     
     
     
-    # Hardcore-Friendly Version description changes
+    // Hardcore-Friendly Version description changes
     
     "Get attacked by a natural iron golem defending its village": "Sé atacado por un gólem de hierro",
     
@@ -4257,7 +4257,7 @@
     
     
     
-    # All advancements added in version 1.11 are here
+    // All advancements added in version 1.11 are here
     
     "Time to Dig!": "¡A excavar!",
     "Use planks and sticks to make a shovel": "Fabrica o consigue una pala de cualquier tipo",
@@ -4353,7 +4353,7 @@
     
     
     
-    # Name and description changes in version 1.11
+    // Name and description changes in version 1.11
     
     "Attach a lead to a llama to form a llama caravan": "Ata a una llama con una correa para formar una caravana de llamas",
     
@@ -4365,7 +4365,7 @@
     
     
     
-    # Trophies added in version 1.11
+    // Trophies added in version 1.11
     
     "Awarded for achieving": "Trofeo otorgado por: ",
     
@@ -4800,7 +4800,7 @@
     
     
     
-    # Renamed advancements and description changes in 1.11.2
+    // Renamed advancements and description changes in 1.11.2
     
     "Craft or collect all forms of normal, cracked, mossy and chiseled stone bricks": "Fabrica o consigue una forma de ladrillos de piedra, de ladrillos de piedra rotos, de ladrillos de piedra musgosos y de ladrillos de piedra grabados de cada tipo",
     
@@ -4818,7 +4818,7 @@
     
     
     
-    # All advancements added in version 1.12 are here
+    // All advancements added in version 1.12 are here
     
     "Coppers and Robbers": "Cobrador",
     "Smelt a Copper Ingot": "Consigue un lingote de cobre",
@@ -4918,7 +4918,7 @@
     "The Ritual Begins": "Que comience el ritual",
     "Get one stack of Black Candles": "Fabrica o consigue un montón de velas negras",
     
-    # Happy Birthday!
+    // Happy Birthday!
     "Place a candle on a cake": "Coloca una vela en un pastel",
     
     "Pane in the Glass": "Vidrio manchado",
@@ -5102,7 +5102,7 @@
     
     
     
-    # The Haggler
+    // The Haggler
     "Trade with villagers 100 times": "Comercia 100 veces",
     
     "Big Spender": "Derrochador",
@@ -5166,7 +5166,7 @@
     
     
     
-    # Renamed advancements and description changes in 1.12
+    // Renamed advancements and description changes in 1.12
     
     "Professional": "Todo un profesional",
     
@@ -5191,7 +5191,7 @@
     
     
     
-    # Hardcore-Friendly Version for 1.12 description changes
+    // Hardcore-Friendly Version for 1.12 description changes
     
     "Get stung by a bee": "Sé atacado por una abeja",
     
@@ -5201,7 +5201,7 @@
     
     
     
-    # Trophies added in 1.12
+    // Trophies added in 1.12
     
     "Octuple Compressed Cobblestone": "Piedra labrada óctuplemente comprimida",
     "Just imagine how much cobblestone it contains…": "Sólo imagina la cantidad de piedra labrada que contiene...",
@@ -5316,13 +5316,13 @@
     
     
     
-    # 'Experience' label in Experience Rewards text
+    // 'Experience' label in Experience Rewards text
     
     "Experience": "Puntos de experiencia",
     
     
     
-    # Text that appears when unlocking a new tab
+    // Text that appears when unlocking a new tab
     
     "You have unlocked the root of the Adventure tab": "Has desbloqueado la pestaña de aventura",
     
@@ -5357,7 +5357,7 @@
     
     
     
-    # Welcome message
+    // Welcome message
     
     "This world is using ": "¡Este mundo usa el paquete de progresos de ",
     "Blaze": "Blaze ",
@@ -5366,11 +5366,11 @@
     "'s Advancements Pack!": "!",
     
     " Over ": " ¡Más de ",
-    ## Number is inserted here
+    //// Number is inserted here
     " brand new advancements in your Minecraft world!": " progresos completamente nuevos en tu partida!",
     
     " - Created by ": " - Creado por: ",
-    ## Cavinator1
+    //// Cavinator1
     
     " - For information ": " - Para más información ",
     "click here": "da clic aquí",
@@ -5379,13 +5379,13 @@
     "here": "aquí",
     
     "Special thanks to my patreon donors: ": "Agradecimientos especiales a mis donadores en Patreon: ",
-    ## Patreon Donors' names are listed here
+    //// Patreon Donors' names are listed here
     
     
     
-    # Configuration Menu
+    // Configuration Menu
     
-    ## BlazeandCave
+    //// BlazeandCave
     "'s Advancements Pack Config": " | Opciones del paquete de progresos",
     
     "Welcome Message currently enabled": "Mensaje de bienvenida habilitado",
@@ -5416,13 +5416,13 @@
     
     
     
-    # Update scoreboard message
+    // Update scoreboard message
     
     "The advancement count of all players currently online has been updated.": "El conteo de progresos ha sido actualizado para todos los jugadores conectados",
     
     
     
-    # Grant trophies are you sure message
+    // Grant trophies are you sure message
     
     "Are you sure?": "¿Estás seguro de que quieres hacer esto?",
     "This function should only be used in worlds that used the Advancements Pack before updating to the Trophy Update.": "Esta función sólo debería usarse en mundos que usaron el paquete de progresos antes de la actualización que introdujo los trofeos.",
@@ -5436,7 +5436,7 @@
     
     
     
-    # Grant trophies confirmation message
+    // Grant trophies confirmation message
     
     "All players have been granted trophies.": "Se han otorgado los trofeos a todos los jugadores conectados.",
     "Players that have been granted trophies by this function in the past did not receive any now. To manually re-enable trophy granting for them use the command:": "Los jugadores que hayan recibido trofeos por esta función no podrán recibir uno igual otra vez. Para volver a habilitar dichos trofeos para esas personas utiliza el comando: ",
@@ -5445,7 +5445,7 @@
     
     
     
-    # All advancements added in version 1.13 are here
+    // All advancements added in version 1.13 are here
     
     "Dripstone Drop": "Puntas blandas",
     "Survive a fall of at least 10 blocks onto some Pointed Dripstone": "Sobrevive a una caída desde 10 metros o más en espeleotema puntiagudo",
@@ -5553,7 +5553,7 @@
     "The ninth is to be a pirate; parrot, spyglass, map, and boat": "Tu novena tarea es ser un pirata; con loro, catalejo, mapa y bote.",
     "The tenth, if you can achieve it, you will be the G.O.A.T.": "Y tu décima y última tarea, si lo consigues serás considerado uno de los mejores, si no es que el mejor...",
     
-    # Riddle Me This messages and hints
+    // Riddle Me This messages and hints
     
     "First line complete…": "Has completado la primera tarea...",
     "Second line complete…": "Has completado la segunda tarea...",
@@ -5571,7 +5571,7 @@
     "Like how this is the thousandth advancement added to the pack": "sería el represente del milésimo progreso agregado al ruedo",
     
     
-    # Renamed advancements and description changes in 1.13
+    // Renamed advancements and description changes in 1.13
     
     "All Aboard!": "¡Todo a bordo!",
     "Craft and board a Minecart for railway journeys": "Monta un vagón para viajar por las vías",
@@ -5596,67 +5596,67 @@
     "How Did We Get Here?": "¿Cómo llegamos hasta aquí?",
     
     
-    # Description changes
+    // Description changes
     
-    ## Adventuring Time
+    //// Adventuring Time
     "Discover every surface biome in the Overworld": "Descubre un bioma de la superficie de cada tipo en la superficie",
     
-    ## Explorer of Worlds
+    //// Explorer of Worlds
     "Discover every biome in every dimension": "Descubre un bioma de cada tipo en cada dimensión",
     
-    ## Trampoline
+    //// Trampoline
     "Bounce onto a slime block from at least 30 blocks high": "Cae sobre un bloque de slime desde 30 metros o más",
     
-    ## Cool Kids
+    //// Cool Kids
     "Craft and wear a leather jacket": "Viste una túnica de cuero",
     
-    ## Fashion Statement
+    //// Fashion Statement
     "Dye some leather pants with one color, then put them on": "Viste unos pantalones de cuero de cualquier color de tinte",
     
-    ## Fuel Engine
+    //// Fuel Engine
     "Craft a Minecart with Furnace and use coal or charcoal to send it chugging": "Impulsa un vagón con horno. Intenta usar carbón de cualquier tipo",
     
-    ## Troll Chest
+    //// Troll Chest
     "Trigger a trapped chest. Good for trolling your friends!": "Activa un cofre trampa. ¡Estos son buenos para bromear con los amigos!",
     
-    ## Tripping Over
+    //// Tripping Over
     "Place a line of string between two tripwire hooks, and trigger it": "Activa un hilo de activación anclado a ganchos de hilo",
     
-    ## Under Pressure
+    //// Under Pressure
     "Step on a pressure plate": "Posa sobre una placa de presión de cualquier tipo",
     
-    ## Let It Go!
+    //// Let It Go!
     "Using Frost Walker boots, walk on frozen water over a deep ocean": "Posa sobre escarcha en un bioma de océano profundo de cualquier tipo. Intenta usar paso helado",
     
-    ## Do A Barrel Roll!
+    //// Do A Barrel Roll!
     "Use Riptide to give yourself a boost": "Lanza un tridente encantado con propulsión acuática para impulsarte",
     
-    ## Kilometre Walk
+    //// Kilometre Walk
     "Travel at least 1000 blocks from the centre of the world in any direction.": "Viaja a 1,000 metros del punto de aparición inicial",
     
-    ## Ten Thousand Blocks
+    //// Ten Thousand Blocks
     "Travel at least 10,000 blocks from the centre of the world in any direction.": "Viaja a 10,000 metros del punto de aparición inicial",
     
-    ## Olympic Gold Medallist
+    //// Olympic Gold Medallist
     "Swim 50km": "Recorre 50,000 metros nadando",
     
-    ## Global Railway Network
+    //// Global Railway Network
     "Ride 50km in a minecart": "Recorre 50,000 metros en vagón",
     
-    ## Who needs cars?
+    //// Who needs cars?
     "Walk 50km": "Recorre 50,000 metros caminando",
     
-    ## I enjoy long walks and playing MC
+    //// I enjoy long walks and playing MC
     "Walk 250km": "Recorre 250,000 metros caminando",
     
-    ## Time to Chop!
+    //// Time to Chop!
     "Use planks and sticks to make an axe": "Fabrica o consigue un hacha de cualquier tipo",
     
     
     
-    # Custom Advancement Completion messages
+    // Custom Advancement Completion messages
     
-    # # Has the syntax <Player> has made the advancement <Advancement's name>
+    // // Has the syntax <Player> has made the advancement <Advancement's name>
     
     "%1$s has made the advancement %2$s%3$s%4$s": "%1$s ha conseguido el progreso %2$s%3$s%4$s",
     "%1$s has reached the goal %2$s%3$s%4$s": "%1$s ha alcanzado el objetivo %2$s%3$s%4$s",
@@ -5664,25 +5664,25 @@
     "%1$s has completed the super challenge %2$s%3$s%4$s": "%1$s ha superado el desafío supremo %2$s%3$s%4$s",
     "%1$s has found the hidden advancement %2$s%3$s%4$s": "%1$s ha descubierto el progreso oculto %2$s%3$s%4$s",
     
-    # # # There are 5 %1$s's here for the advancement '65 Hours of Walking'
+    // // // There are 5 %1$s's here for the advancement '65 Hours of Walking'
     
     "%1$s has found the hidden advancement %2$s%3$s%4$s%5$s%6$s": "%1$s ha descubierto el progreso oculto %2$s%3$s%4$s%5$s%6$s",
     
-    # # For milestones, it goes <Player> has completed every advancement in the <Tab name> tab, earning them the advancement <Milestone's name>
+    // // For milestones, it goes <Player> has completed every advancement in the <Tab name> tab, earning them the advancement <Milestone's name>
     
     "%1$s has completed every advancement in the %2$s tab, earning them the advancement %3$s%4$s%5$s": "%1$s ha conseguido todos los progresos de la pestaña de %2$s, lo que lo vuelve una %3$s%4$s%5$s",
     
-    # # Note: Because The End already has a 'the' in it, this line is exclusively used in 'End Milestone'
+    // // Note: Because The End already has a 'the' in it, this line is exclusively used in 'End Milestone'
     
     "%1$s has completed every advancement in %2$s tab, earning them the advancement %3$s%4$s%5$s": "%1$s ha conseguido todos los progresos de la pestaña de %2$s, lo que lo vuelve una %3$s%4$s%5$s",
     
-    # # Advancement Legend
+    // // Advancement Legend
     
     "%1$s has completed every advancement in BlazeandCave's Advancements Pack, earning them the coveted title of %2$s%3$s%4$s": "%1$s ha conseguido todos los progresos del paquete de progresos de Blaze y Cave, lo que lo convierte en una %2$s%3$s%4$s",
     
     
     
-    # Trophies added in 1.13
+    // Trophies added in 1.13
     
     "Azalea Parachute": "Paracaídas de azalea",
     "Good thing you didn't need this": "Menos mal que jamás lo necesitaste",
@@ -5695,7 +5695,7 @@
     
     "Flex Tape": "Flex Tape, el original",
     "To show the power of Flex Tape, you sawed all the blocks in half!": "¡Para comprobar la eficacia y el poder de Flex Tape, has cortado todos los!",
-    "#NotSponsored": "#NoMePatrocinan",
+    "//NotSponsored": "//NoMePatrocinan",
     
     "Stairway to Heaven": "Stairway to Heaven",
     "Whatever you do, don't listen to it backwards!": "Hagas lo que hagas, ¡no lo reproduzcas al revés!",
@@ -5735,12 +5735,12 @@
     "Golden Advancement Plaque": "Placa progresiva de oro",
     "Awarded to this datapack for reaching 1000 advancements": "Otorgada a este paquete de datos por alcanzar la numerosa suma de 1,000 progresos",
     
-    # # The Toilet trophy for 'WHERE'S THE HONEY LEBOWSKI' received a description change
+    // // The Toilet trophy for 'WHERE'S THE HONEY LEBOWSKI' received a description change
     
     "WHERE'S THE HONEY?!!!": "¡¡¡¿DÓNDE ESTÁ LA BENDITA MIEL?!!!",
     
     
-    # Configuration menu additions in 1.13
+    // Configuration menu additions in 1.13
     
     "Cooperative Mode currently enabled": "Modo cooperativo habilitado",
     "Cooperative Mode currently disabled": "Modo cooperativo deshabilitado",
@@ -5755,7 +5755,7 @@
     "Click to enable only for the first player to get an advancement": "Da clic para habilitar para el primero que lo consiga",
     "Click to disable for all players": "Da clic para deshabilitar para todos los jugadores",
     
-    # The syntax for these text strings is e.g. 'Item Rewards All players'
+    // The syntax for these text strings is e.g. 'Item Rewards All players'
     
     "Item Rewards:": "Recompensas de objetos:",
     "Experience Rewards:": "Recompensas de exp.:",
@@ -5782,7 +5782,7 @@
     "Click to display": "Da clic para establecer",
     "Click to clear": "Da clic para quitar",
     
-    # The syntax for these text strings is e.g. 'Task Advancements All players'
+    // The syntax for these text strings is e.g. 'Task Advancements All players'
     
     "Task": "Progresos comunes",
     "Goal": "Objetivos",
@@ -5805,7 +5805,7 @@
     
     
     
-    # Advancements added in the Terralith version for BACAP 1.13.1
+    // Advancements added in the Terralith version for BACAP 1.13.1
     
     "A Cliffhanger!": "Qué precipitado",
     "Discover every type of cliff biome": "Descubre un bioma de acantilado de cada tipo",
@@ -5863,7 +5863,7 @@
     
     
     
-    # Adjusted descriptions
+    // Adjusted descriptions
     
     "Discover every vanilla surface biome in the Overworld": "Descubre un bioma original de la superficie de cada tipo en la superficie",
     "Discover every vanilla biome from every dimension": "Descubre un bioma original de cada tipo en cada dimensión",
@@ -5875,7 +5875,7 @@
     
     
     
-    # Configuration menu additions in 1.13.3-1.13.6
+    // Configuration menu additions in 1.13.3-1.13.6
     
     "First player on each team": "Primer jugadro de cada equipo",
     "Click to enable for the first player on each team": "Da clic para habilitar para el primer jugador de cada equipo",
@@ -5936,7 +5936,7 @@
     
     
     
-    # Update Scoreboard
+    // Update Scoreboard
     
     "Goes through every advancement for every player online, and recounts how many advancements they have": "Verifica todos los progresos por cada jugador en línea y hace un recuento de cuantos progresos tiene",
     "Should be used if:": "Debería usarse si:",
@@ -5976,7 +5976,7 @@
     
     
     
-    # Advancements added in the Terralith version for BACAP 1.13.5
+    // Advancements added in the Terralith version for BACAP 1.13.5
     
     "A Journey Begins": "El comienzo de un viaje",
     "Find a Traveller’s Map": "Encuentra un mapa de viajero de cualquier tipo",
@@ -6002,7 +6002,7 @@
     
     
     
-    ## All advancements added in version 1.14 are here
+    //// All advancements added in version 1.14 are here
     
     "Sneak 100": "Cuclillas al millón",
     "Sneak near something in the Deep Dark to prevent being heard": "Agáchate cerca de un sensor de sculk en un bioma de oscuridad profunda",
@@ -6167,37 +6167,37 @@
     
     
     
-    # Description changes in 1.14
+    // Description changes in 1.14
     
-    # Vibe Check
+    // Vibe Check
     "Use Silk Touch to pick up a Sculk Sensor or find one among Ancient City treasure": "Consigue un sensor de sculk. Intenta usar toque de seda o buscar en ciudades ancestrales",
     
-    # Spelunker
+    // Spelunker
     "Discover every cave biome": "Descubre un bioma de cueva de cada tipo",
     
-    # Yay! I got my wood!
+    // Yay! I got my wood!
     "Collect every type of log": "Consigue un tronco de madera de cada tipo",
     
-    # Stripper
+    // Stripper
     "Strip the bark off every type of log": "Descorteza un tronco de cada tipo",
     
-    # Ecologist
+    // Ecologist
     "Plant down all types of saplings": "Coloca un retoño de cada tipo",
     
-    # The Mighty Hunter
+    // The Mighty Hunter
     "Hunt all types of land animals with your bow": "Mata a una criatura animal de la superficie de cada tipo con una flecha",
     
-    # Adventuring Time
+    // Adventuring Time
     "Discover each type of surface biome in the Overworld": "Descubre un bioma de la superficie de cada tipo en la superficie",
     
     
     
-    # The word 'tab' as it appears when mousing over an Advancement in chat
+    // The word 'tab' as it appears when mousing over an Advancement in chat
     "tab": "pestaña",
     
     
     
-    # Trophies added in 1.14
+    // Trophies added in 1.14
     
     "Mobbo": "Mobbo",
     "They are your bestest friend!": "¡Tu mejor y único amigo!",
@@ -6258,5 +6258,5 @@
     
     
     
-    # All advancements and trophies that get added in versions 1.15 or later will be added down here for easy locating by translators who wish to update their language file
+    // All advancements and trophies that get added in versions 1.15 or later will be added down here for easy locating by translators who wish to update their language file
 }
