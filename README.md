@@ -1,6 +1,6 @@
 # Zoe-Resource-pack
 
-## [Fancy Beds](https://www.curseforge.com/minecraft/texture-packs/fancy-beds) * added v0.0.6
+## [Fancy_Beds_V2.1-[1.19]](https://www.curseforge.com/minecraft/texture-packs/fancy-beds) * added v0.0.6
 
 ## [Vanilla Tweaks Resource Pack](https://vanillatweaks.net/picker/resource-packs/) * added v0.0.5
 **Version: 1.19**
