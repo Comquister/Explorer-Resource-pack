@@ -28,7 +28,7 @@
 ![image](https://user-images.githubusercontent.com/77806985/178165013-590d9d14-32b5-4854-a4c0-a0d9306df0e3.png)
 
 
-## [FreshAnimations_v1.6.zip (Addons and Alt)](https://www.curseforge.com/minecraft/texture-packs/fresh-animations) * ¯\_(ツ)_/¯
+## [FreshAnimations_v1.6.zip (Addons and Alt)](https://www.curseforge.com/minecraft/texture-packs/fresh-animations) * ¯\\\_(ツ)_/¯
 **Version: 1.18.2 - 1.15.2** (Disable)
 
 ## [Icons+1.7.1.zip](https://www.curseforge.com/minecraft/texture-packs/icons) * added v0.0.1
