@@ -74,6 +74,21 @@
        },
        {   "when": { "note": "24"},
            "apply": { "model": "minecraft:block/note_block/block/24" }
-       }
+       },
+		{"when": {"instrument": "basedrum"}, "apply": {"model": "minecraft:block/note_block"}},
+		{"when": {"instrument": "bass"}, "apply": {"model": "minecraft:block/note_block"}},
+		{"when": {"instrument": "bell"}, "apply": {"model": "minecraft:block/note_block"}},
+		{"when": {"instrument": "bit"}, "apply": {"model": "minecraft:block/note_block"}},
+		{"when": {"instrument": "chime"}, "apply": {"model": "minecraft:block/note_block"}},
+		{"when": {"instrument": "cow_bell"}, "apply": {"model": "minecraft:block/note_block"}},
+		{"when": {"instrument": "didgeridoo"}, "apply": {"model": "minecraft:block/note_block"}},
+		{"when": {"instrument": "flute"}, "apply": {"model": "minecraft:block/note_block"}},
+		{"when": {"instrument": "guitar"}, "apply": {"model": "minecraft:block/note_block"}},
+		{"when": {"instrument": "harp"}, "apply": {"model": "minecraft:block/note_block"}},
+		{"when": {"instrument": "hat"}, "apply": {"model": "minecraft:block/note_block"}},
+		{"when": {"instrument": "iron_xylophone"}, "apply": {"model": "minecraft:block/note_block"}},
+		{"when": {"instrument": "pling"}, "apply": {"model": "minecraft:block/note_block"}},
+		{"when": {"instrument": "snare"}, "apply": {"model": "minecraft:block/note_block"}},
+		{"when": {"instrument": "xylophone"}, "apply": {"model": "minecraft:block/note_block"}}
    ]
 }
