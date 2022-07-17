@@ -29,6 +29,15 @@
             "\uDB80\uDC90"
             ]
         },	
+		{
+         "type": "bitmap",
+         "file": "icons:menu/techno.png",
+         "ascent": 40,
+         "height": 80,
+         "chars": [
+            "\uDB80\uDC91"
+            ]
+        },	
         {
          "type": "bitmap",
          "file": "icons:item/tooltip/attributes.png",
