@@ -1,7 +1,7 @@
 # Zoe-Resource-pack
 
 ## [Space](¯\_(ツ)_/¯)
-**Version: ¯\_(ツ)_/¯**
+**Version: ¯\\\_(ツ)_/¯**
 
 ## [Space](https://www.spigotmc.org/resources/space.59572/)
 **Version: 2.2.4**
