@@ -57,9 +57,6 @@
 * Big Dripleaf Stem Fix
 * Small Dripleaf Stem Fix
 
-## [FreshAnimations_v1.6.zip (Addons and Alt)](https://www.curseforge.com/minecraft/texture-packs/fresh-animations)
-**Version: 1.18.2 - 1.15.2** (Disable)
-
 ## [Icons+1.7.1.zip](https://www.curseforge.com/minecraft/texture-packs/icons)
 **Version: 1.19.1, 1.18.2, 1.17.1**
 
