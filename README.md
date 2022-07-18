@@ -3,7 +3,7 @@
 ## Slime fun
 **Version: ¯\\\_(ツ)_/¯**
 
-## (XXVI's Infested Blocks Overlay)[https://www.planetminecraft.com/texture-pack/xxvi-s-infested-blocks-1-18-5498213/]
+## [XXVI's Infested Blocks Overlay](https://www.planetminecraft.com/texture-pack/xxvi-s-infested-blocks-1-18-5498213/)
 **Version: 1.19**
 
 ## [Space](https://www.spigotmc.org/resources/space.59572/)
