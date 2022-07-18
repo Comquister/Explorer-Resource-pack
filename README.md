@@ -1,6 +1,6 @@
 # Zoe-Resource-pack
 
-## [Space](¯\_(ツ)_/¯)
+## Slime fun
 **Version: ¯\\\_(ツ)_/¯**
 
 ## [Space](https://www.spigotmc.org/resources/space.59572/)
