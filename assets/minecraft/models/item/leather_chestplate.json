@@ -1,20 +1,25 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "minecraft:item/leather_chestplate",
-		"layer1": "minecraft:item/leather_chestplate_overlay"
-	},
-	"overrides": [
-		{"predicate": {"custom_model_data": 1230000}, "model": "space:item/voyager_1_chestplate"},
-		{"predicate": {"custom_model_data": 1230001}, "model": "space:item/rogue_chestplate"},
-		{"predicate": {"custom_model_data": 1230002}, "model": "space:item/explorer_chestplate"},
-		{"predicate": {"custom_model_data": 1230003}, "model": "space:item/hazmat_chestplate"},
-		{"predicate": {"custom_model_data": 1230004}, "model": "space:item/galactic_chestplate"},
-		{"predicate": {"custom_model_data": 1230006}, "model": "space:item/voyager_1_chestplate"},
-		{"predicate": {"custom_model_data": 1230007}, "model": "space:item/voyager_1_chestplate"},
-		{"predicate": {"custom_model_data": 1230008}, "model": "space:item/voyager_1_chestplate"},
-		{"predicate": {"custom_model_data": 1230009}, "model": "space:item/voyager_1_chestplate"},
-		{"predicate": {"custom_model_data": 1230010}, "model": "space:item/raincoat"},
-		{"predicate": {"custom_model_data": 1230011}, "model": "space:item/wooly_jacket"}
-	]
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/leather_chestplate",
+        "layer1": "item/leather_chestplate_overlay"
+    },
+    "overrides": [
+      {"predicate": {"custom_model_data": 1230000}, "model": "space:item/voyager_1_chestplate"},
+      {"predicate": {"custom_model_data": 1230001}, "model": "space:item/rogue_chestplate"},
+      {"predicate": {"custom_model_data": 1230002}, "model": "space:item/explorer_chestplate"},
+      {"predicate": {"custom_model_data": 1230003}, "model": "space:item/hazmat_chestplate"},
+      {"predicate": {"custom_model_data": 1230004}, "model": "space:item/galactic_chestplate"},
+      {"predicate": {"custom_model_data": 1230006}, "model": "space:item/voyager_1_chestplate"},
+      {"predicate": {"custom_model_data": 1230007}, "model": "space:item/voyager_1_chestplate"},
+      {"predicate": {"custom_model_data": 1230008}, "model": "space:item/voyager_1_chestplate"},
+      {"predicate": {"custom_model_data": 1230009}, "model": "space:item/voyager_1_chestplate"},
+      {"predicate": {"custom_model_data": 1230010}, "model": "space:item/raincoat"},
+      {"predicate": {"custom_model_data": 1230011}, "model": "space:item/wooly_jacket"},
+      { "predicate": {"custom_model_data": 393000},"model": "ocean_additions:item/ocean_king_chestplate"},
+      { "predicate": {"custom_model_data": 393001},"model": "ocean_additions:item/phaser_chestplate/neutral"},
+      { "predicate": {"custom_model_data": 393002},"model": "ocean_additions:item/phaser_chestplate/defense"},
+      { "predicate": {"custom_model_data": 393003},"model": "ocean_additions:item/phaser_chestplate/offense"},
+      { "predicate": {"custom_model_data": 393004},"model": "ocean_additions:item/phaser_chestplate/speed"}
+    ]
 }

@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "ocean_additions:item/phaser_leggings/defense",
+        "layer1": "ocean_additions:item/phaser_leggings/defense"
+    }
+}

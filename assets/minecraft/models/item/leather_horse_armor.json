@@ -1,0 +1,416 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "minecraft:item/leather_horse_armor"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 393000
+      },
+      "model": "ocean_additions:entity/ocean_king/midbody"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393001
+      },
+      "model": "ocean_additions:entity/ocean_king/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393002
+      },
+      "model": "ocean_additions:entity/ocean_king/rightarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393003
+      },
+      "model": "ocean_additions:entity/ocean_king/righthand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393004
+      },
+      "model": "ocean_additions:entity/ocean_king/leftarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393005
+      },
+      "model": "ocean_additions:entity/ocean_king/lefthand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393006
+      },
+      "model": "ocean_additions:entity/ocean_king/tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393007
+      },
+      "model": "ocean_additions:entity/ocean_king/leftleg3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393008
+      },
+      "model": "ocean_additions:entity/ocean_king/leftleg2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393009
+      },
+      "model": "ocean_additions:entity/ocean_king/leftleg1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393010
+      },
+      "model": "ocean_additions:entity/ocean_king/rightleg3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393011
+      },
+      "model": "ocean_additions:entity/ocean_king/rightleg2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393012
+      },
+      "model": "ocean_additions:entity/ocean_king/rightleg1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393018
+      },
+      "model": "ocean_additions:entity/colony_queen_default/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393019
+      },
+      "model": "ocean_additions:entity/colony_queen_default/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393020
+      },
+      "model": "ocean_additions:entity/colony_queen_default/jaw"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393021
+      },
+      "model": "ocean_additions:entity/colony_queen_default/rightjaw"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393022
+      },
+      "model": "ocean_additions:entity/colony_queen_default/leftjaw"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393023
+      },
+      "model": "ocean_additions:entity/colony_queen_default/tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393024
+      },
+      "model": "ocean_additions:entity/colony_queen_default/lowertail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393025
+      },
+      "model": "ocean_additions:entity/colony_queen_default/leftarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393026
+      },
+      "model": "ocean_additions:entity/colony_queen_default/leftlowerarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393027
+      },
+      "model": "ocean_additions:entity/colony_queen_default/rightarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393028
+      },
+      "model": "ocean_additions:entity/colony_queen_default/rightlowerarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393029
+      },
+      "model": "ocean_additions:entity/colony_queen_default/rightleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393030
+      },
+      "model": "ocean_additions:entity/colony_queen_default/leftleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393031
+      },
+      "model": "ocean_additions:entity/colony_queen_defense/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393032
+      },
+      "model": "ocean_additions:entity/colony_queen_defense/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393033
+      },
+      "model": "ocean_additions:entity/colony_queen_defense/jaw"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393034
+      },
+      "model": "ocean_additions:entity/colony_queen_defense/rightjaw"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393035
+      },
+      "model": "ocean_additions:entity/colony_queen_defense/leftjaw"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393036
+      },
+      "model": "ocean_additions:entity/colony_queen_defense/tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393037
+      },
+      "model": "ocean_additions:entity/colony_queen_defense/lowertail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393038
+      },
+      "model": "ocean_additions:entity/colony_queen_defense/leftarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393039
+      },
+      "model": "ocean_additions:entity/colony_queen_defense/leftlowerarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393040
+      },
+      "model": "ocean_additions:entity/colony_queen_defense/rightarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393041
+      },
+      "model": "ocean_additions:entity/colony_queen_defense/rightlowerarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393042
+      },
+      "model": "ocean_additions:entity/colony_queen_defense/rightleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393043
+      },
+      "model": "ocean_additions:entity/colony_queen_defense/leftleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393044
+      },
+      "model": "ocean_additions:entity/colony_queen_offense/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393045
+      },
+      "model": "ocean_additions:entity/colony_queen_offense/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393046
+      },
+      "model": "ocean_additions:entity/colony_queen_offense/jaw"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393047
+      },
+      "model": "ocean_additions:entity/colony_queen_offense/rightjaw"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393048
+      },
+      "model": "ocean_additions:entity/colony_queen_offense/leftjaw"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393049
+      },
+      "model": "ocean_additions:entity/colony_queen_offense/tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393050
+      },
+      "model": "ocean_additions:entity/colony_queen_offense/lowertail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393051
+      },
+      "model": "ocean_additions:entity/colony_queen_offense/leftarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393052
+      },
+      "model": "ocean_additions:entity/colony_queen_offense/leftlowerarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393053
+      },
+      "model": "ocean_additions:entity/colony_queen_offense/rightarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393054
+      },
+      "model": "ocean_additions:entity/colony_queen_offense/rightlowerarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393055
+      },
+      "model": "ocean_additions:entity/colony_queen_offense/rightleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393056
+      },
+      "model": "ocean_additions:entity/colony_queen_offense/leftleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393057
+      },
+      "model": "ocean_additions:entity/colony_queen_speed/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393058
+      },
+      "model": "ocean_additions:entity/colony_queen_speed/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393059
+      },
+      "model": "ocean_additions:entity/colony_queen_speed/jaw"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393060
+      },
+      "model": "ocean_additions:entity/colony_queen_speed/rightjaw"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393061
+      },
+      "model": "ocean_additions:entity/colony_queen_speed/leftjaw"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393062
+      },
+      "model": "ocean_additions:entity/colony_queen_speed/tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393063
+      },
+      "model": "ocean_additions:entity/colony_queen_speed/lowertail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393064
+      },
+      "model": "ocean_additions:entity/colony_queen_speed/leftarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393065
+      },
+      "model": "ocean_additions:entity/colony_queen_speed/leftlowerarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393066
+      },
+      "model": "ocean_additions:entity/colony_queen_speed/rightarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393067
+      },
+      "model": "ocean_additions:entity/colony_queen_speed/rightlowerarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393068
+      },
+      "model": "ocean_additions:entity/colony_queen_speed/rightleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393069
+      },
+      "model": "ocean_additions:entity/colony_queen_speed/leftleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393070
+      },
+      "model": "ocean_additions:entity/colony_queen_default/amonguscube"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393071
+      },
+      "model": "ocean_additions:entity/colony_queen_default/amonguscube_shatter"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393072
+      },
+      "model": "ocean_additions:entity/colony_queen_default/shockwave"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 {
-    "parent": "item/smaller_util",
-    "textures": {
-        "layer0": "item/tropical_fish"
-    }
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/tropical_fish"
+  },
+    "overrides": [
+      { "predicate": {"custom_model_data": 393000},"model": "ocean_additions:item/lobster_meat"},
+      { "predicate": {"custom_model_data": 393001},"model": "ocean_additions:item/boiled_lobster"},
+      { "predicate": {"custom_model_data": 393002},"model": "ocean_additions:item/rotten_eper_fruit"},
+      { "predicate": {"custom_model_data": 393003},"model": "ocean_additions:item/eper_fruit"}
+    ]
 }

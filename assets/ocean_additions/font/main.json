@@ -1,0 +1,46 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "ocean_additions:gui/bossbar_ocean_king_en.png",
+            "ascent": 6,
+            "height": 32,
+            "chars": ["\ubbb1"]
+        },
+		        {
+            "type": "bitmap",
+            "file": "ocean_additions:gui/bossbar_ocean_king_fi.png",
+            "ascent": 6,
+            "height": 32,
+            "chars": ["\ubbb2"]
+        },
+		{
+            "type": "bitmap",
+            "file": "ocean_additions:gui/bossbar_colony_queen_en/blue.png",
+            "ascent": 6,
+            "height": 33,
+            "chars": ["\ubca1"]
+        },
+		{
+            "type": "bitmap",
+            "file": "ocean_additions:gui/bossbar_colony_queen_en/purple.png",
+            "ascent": 6,
+            "height": 33,
+            "chars": ["\ubcb1"]
+        },
+		{
+            "type": "bitmap",
+            "file": "ocean_additions:gui/bossbar_colony_queen_en/red.png",
+            "ascent": 6,
+            "height": 33,
+            "chars": ["\ubcc1"]
+        },
+		{
+            "type": "bitmap",
+            "file": "ocean_additions:gui/bossbar_colony_queen_en/green.png",
+            "ascent": 6,
+            "height": 33,
+            "chars": ["\ubcd1"]
+        }
+    ]
+}
