@@ -1,5 +1,8 @@
 # Zoe-Resource-pack
 
+## [Visible Ores](https://www.curseforge.com/minecraft/texture-packs/visible-ores)
+**Version: 1.19 | 2.7**
+
 ## Slime fun
 **Version: ¯\\\_(ツ)_/¯**
 
