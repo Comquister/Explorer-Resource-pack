@@ -1,0 +1,17 @@
+{
+    "providers": [
+		{
+            "type": "bitmap",
+            "file": "ocean_additions:gui/colony_queen_jumpscare/0.png",
+            "ascent": 256,
+            "height": 256,
+            "chars": ["a\uff01\uff02\uff03"]
+        },
+        {
+            "type": "space",
+            "advances": {
+              "m": -258
+            }
+        }
+    ]
+}

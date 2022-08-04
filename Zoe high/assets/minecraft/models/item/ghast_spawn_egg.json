@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/template_spawn_egg",
+    "overrides": [
+  { "predicate": {"custom_model_data": 393000},"model": "ocean_additions:item/lobster_spawn_egg"},
+  { "predicate": {"custom_model_data": 393001},"model": "ocean_additions:item/abyss_dweller_spawn_egg"},
+  { "predicate": {"custom_model_data": 393002},"model": "ocean_additions:item/eper_fruit_seeds"}
+]
+}

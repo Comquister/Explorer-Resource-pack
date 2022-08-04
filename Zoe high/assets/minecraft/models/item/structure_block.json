@@ -1,0 +1,28 @@
+{
+  "parent": "block/structure_block",
+  "overrides": [
+    { "predicate": {"custom_model_data": 390000},"model": "ocean_additions:entity/primalugly"},
+    { "predicate": {"custom_model_data": 393000},"model": "ocean_additions:entity/lobster/brown"},
+    { "predicate": {"custom_model_data": 393001},"model": "ocean_additions:entity/lobster/red"},
+    { "predicate": {"custom_model_data": 393002},"model": "ocean_additions:entity/lobster/blue"},
+    { "predicate": {"custom_model_data": 393003},"model": "ocean_additions:entity/lobster/hbrown"},
+    { "predicate": {"custom_model_data": 393004},"model": "ocean_additions:entity/lobster/hred"},
+    { "predicate": {"custom_model_data": 393005},"model": "ocean_additions:entity/lobster/hblue"},
+    { "predicate": {"custom_model_data": 393006},"model": "ocean_additions:entity/lobster/wbrown"},
+    { "predicate": {"custom_model_data": 393007},"model": "ocean_additions:entity/lobster/wred"},
+    { "predicate": {"custom_model_data": 393008},"model": "ocean_additions:entity/lobster/wblue"},
+    { "predicate": {"custom_model_data": 393009},"model": "ocean_additions:item/lobster_shell"},
+    { "predicate": {"custom_model_data": 393010},"model": "ocean_additions:entity/kings_claw"},
+    { "predicate": {"custom_model_data": 393011},"model": "ocean_additions:entity/abyss_dweller/main"},
+    { "predicate": {"custom_model_data": 393012},"model": "ocean_additions:entity/abyss_dweller/hurt"},
+    { "predicate": {"custom_model_data": 393013},"model": "ocean_additions:block/energy_barrier/red"},
+    { "predicate": {"custom_model_data": 393014},"model": "ocean_additions:item/biomechanical_scale"},
+    { "predicate": {"custom_model_data": 393015},"model": "ocean_additions:block/eper_fruit_crop/stage1"},
+    { "predicate": {"custom_model_data": 393016},"model": "ocean_additions:block/eper_fruit_crop/stage2"},
+    { "predicate": {"custom_model_data": 393017},"model": "ocean_additions:block/eper_fruit_crop/stage3"},
+    { "predicate": {"custom_model_data": 393018},"model": "ocean_additions:block/eper_fruit_crop/stage4"},
+    { "predicate": {"custom_model_data": 393019},"model": "ocean_additions:block/eper_fruit_crop/stage5"},
+    { "predicate": {"custom_model_data": 393020},"model": "ocean_additions:block/eper_fruit_crop/stage6"},
+    { "predicate": {"custom_model_data": 393999},"model": "ocean_additions:gui/advancement_icon"}
+  ]
+}
