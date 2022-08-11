@@ -1656,9 +1656,81 @@
             "type": "bitmap",
             "file": "space:font/space_split.png",
             "ascent": -32768,
+            "height": 270,
+            "chars": [
+                "\uE197"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 293,
+            "chars": [
+                "\uE195"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 230,
+            "chars": [
+                "\uE194"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -117,
+            "chars": [
+                "\uE193"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -133,
+            "chars": [
+                "\uE192"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
             "height": -130,
             "chars": [
                 "\uF80C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -166,
+            "chars": [
+                "\uE199"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -115,
+            "chars": [
+                "\uE198"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -117,
+            "chars": [
+                "\uE196"
             ]
         },
         {
@@ -2338,6 +2410,24 @@
         },
         {
             "type": "bitmap",
+            "file": "space:gui/enchanter.png",
+            "ascent": 12,
+            "height": 256,
+            "chars": [
+                "\uE230"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:gui/disenchanter.png",
+            "ascent": 12,
+            "height": 256,
+            "chars": [
+                "\uE231"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "space:gui/suit_fabricator_craft.png",
             "ascent": 12,
             "height": 256,
@@ -2398,6 +2488,6 @@
             "chars": [
                 "\uE225"
             ]
-        }		
+        }
     ]
 }

@@ -1,9 +1,9 @@
 {
-  "parent": "minecraft:item/handheld",
-  "textures": {
-    "layer0": "minecraft:item/iron_sword"
-  },
-  "overrides": [
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "minecraft:item/iron_sword"
+	},
+	"overrides": [
 		{"predicate": {"custom_model_data": 1230000}, "model": "space:item/adamantium_sword"},
 		{"predicate": {"custom_model_data": 1230001}, "model": "space:item/katana"},
 		{"predicate": {"custom_model_data": 1230002}, "model": "space:item/light_oxygen_tank"},
@@ -15,10 +15,6 @@
 		{"predicate": {"custom_model_data": 1230008}, "model": "space:item/titanium_gauntlet"},
 		{"predicate": {"custom_model_data": 1230009}, "model": "space:item/coolant_cell"},
 		{"predicate": {"custom_model_data": 1230010}, "model": "space:item/handheld_fan"},
-		{"predicate": {"custom_model_data": 1230011}, "model": "space:item/handheld_teleporter"},
-    { "predicate": {"custom_model_data": 393000},"model": "ocean_additions:item/phaser_blade/neutral"},
-    { "predicate": {"custom_model_data": 393001},"model": "ocean_additions:item/phaser_blade/defense"},
-    { "predicate": {"custom_model_data": 393002},"model": "ocean_additions:item/phaser_blade/offense"},
-    { "predicate": {"custom_model_data": 393003},"model": "ocean_additions:item/phaser_blade/speed"}
-  ]
+		{"predicate": {"custom_model_data": 1230011}, "model": "space:item/handheld_teleporter"}
+	]
 }
