@@ -1,4 +1,4 @@
-# Zoe-Resource-pack
+# Explorermc ResourcePack
 
 ## [Visible Ores](https://www.curseforge.com/minecraft/texture-packs/visible-ores) (Disable per dug)
 **Version: 1.19 | 2.7**
